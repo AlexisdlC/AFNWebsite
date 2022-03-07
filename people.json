@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "Alberto Fernandez-Nieves",
+        "Position": "Professor",
+        "Office": "306",
+        "email": "alberto.fernandez@physics.gatech.edu",
+        "picture": "male-placeholder-image.jpeg"
+    },
+
+    {
+        "Name": "Caleb Anderson",
+        "Position": "Postdoctoral Fellow",
+        "Office": "V316",
+        "email": "caleb91.13@gmail.com",
+        "picture": "male-placeholder-image.jpeg"
+    },
+
+    {
+        "Name": "Javier Rojo Gonzalez",
+        "Position": "Graduate Student",
+        "Office": "V316",
+        "email": "4bjavierrojo@gmail.com",
+        "picture": "male-placeholder-image.jpeg"
+    },
+
+    {
+        "Name": "Alexis de la Cotte",
+        "Position": "Postdoctoral Fellow",
+        "Office": "302",
+        "email": "adelacotte@ub.edu",
+        "picture": "male-placeholder-image.jpeg"
+    },
+
+    {
+        "Name": "Adrian Arenas Gullo",
+        "Position": "Graduate Student",
+        "Office": "302",
+        "email": "adrianarenasgullo@gmail.com",
+        "picture": "male-placeholder-image.jpeg"
+    },
+
+    {
+        "Name": "Jyothishraj Nambisan",
+        "Position": "Graduate Student",
+        "Office": "GA Tech",
+        "email": "jnambisan3@gatech.edu",
+        "picture": "male-placeholder-image.jpeg"
+    },
+
+    {
+        "Name": "Boyang Zhou",
+        "Position": "Graduate Student <br> <span style='font-size: 0.85em'>(Co-advised with Dr. Urs Gasser)</span>",
+        "Office": "PSI",
+        "email": "boyang.zhou@psi.ch",
+        "picture": "male-placeholder-image.jpeg"
+    }
+]

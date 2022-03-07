@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png"> -->
+        <!-- Google fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+        <!-- Our custom CSS -->
+        <link rel="stylesheet" href="index.css">
+        
+        <title>Soft Condensed Matter Laboratory</title>
+
+        <script src="navigation.js" defer></script>
+        <script src="people.js" defer></script>
+    </head>
+
+    <body class="people">
+
+        <a class="skip-to-content" href="#main">Skip to content</a>
+
+        <header class="header-not-home">
+            <div class="flex primary-header">
+                <span class="title fs-700 ff-header text-white">SCML</span>
+                <button class="mobile-nav-toggle" aria-controls="primary-navigation"><span class="sr-only" aria-expanded="false">Menu</span></button>
+                <nav>
+                    <ul id="primary-navigation" class="primary-navigation underline-indicators flex primary-navigation--not-home" data-visible="false">
+                        <li><a class="text-white fs-300 ff-header" href="index.html">Home</a>
+                        <li><a class="text-white fs-300 ff-header" href="publications.html">Publications</a>
+                        <li class="active"><a class="text-white fs-300 ff-header" href="people.html">People</a>
+                        <li><a class="text-white fs-300 ff-header" href="#">Research</a>
+                        <li><a class="text-white fs-300 ff-header" href="#">Location</a>
+                    </ul>
+                </nav>
+            </div>
+            <div class="undertitle">
+                <span class="text-accent fs-600 ff-header">Alberto Fernandez-Nieves</span>
+            </div>
+        </header>
+
+        <main id="main">
+
+            <h1 class="text-dark ff-body fs-700">Current Group Members</h1>
+
+            <div id="group-members" class="flex--people flex"></div>
+
+
+        </main>
+
+    </body>
+</html>

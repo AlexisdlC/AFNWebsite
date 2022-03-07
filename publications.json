@@ -1,0 +1,1538 @@
+{
+    "2022": [
+
+        {
+            "type": "Book Chapter",
+            "authors": "A. Scotti, U. Gasser, B. Zhou, A. Arenas-Gullo, A. de la Cotte, J. Rojo, A. Fernandez-Nieves",
+            "chaptertitle": "Compressible microgels in concentrated suspensions: phase behavior, flow properties and scattering techniques to probe their structure and dynamics",
+            "booktitle": "Stimuli-Responsive Polymers: Synthesis, Simulation and Applications",
+            "editors": "Michael J. Serpe, Yongfeng Gao",
+            "publisher" : "Wiley-VCH Verlag & Co. KGaA"
+        },
+
+        {
+            "type": "article",
+            "authors": "K. He, Y. Zhou, H. Ramezani-Dakhel, J. J. de Pablo, A. Fernandez-Nieves, T. Lopez-Leon",
+            "title": "From nematic shells to nematic droplets: energetics and defect transitions",
+            "journal": "Soft Matter",
+            "volume": "18",
+            "page": "1395",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2022/sm/d1sm00241d"
+        },
+        
+        {
+            "type": "article",
+            "authors": "J. Guerrero, J. Rojo, A. de la Cotte, L. M. Aguilera-Saez, E. Vila, A. Fernandez-Nieves",
+            "title": "Generation of drops and emulsions using glass-based microfluidic devices",
+            "journal": "Journal of Visualized Experiments",
+            "volume": " ",
+            "page": "accepted",
+            "link": "https://www.jove.com/"
+        },
+        
+        {
+            "type": "article",
+            "authors": "C. P. E. Breard, J. Dufek, L. Fullard, M. Tennenbaum, A. Fernandez-Nieves, J-F. Dietiker",
+            "title": "Investigating the rheology of fluidized and non-fluidized beds – implications for geophysical flows with excess pore pressure",
+            "journal": "Granular Matter",
+            "volume": "24",
+            "page": "34",
+            "link": "https://link.springer.com/article/10.1007/s10035-021-01192-5"
+        }
+
+    ],
+
+    "2021": [
+
+        {
+            "type": "article",
+            "authors": "D. Pearce, J. Nambisan, P. W. Ellis, A. Fernandez-Nieves, L. Giomi",
+            "title": "Orientational correlations in active and passive nematic defects",
+            "journal": "Physical Review Letters",
+            "volume": "127",
+            "page": "197801",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.197801"
+        },
+
+        {
+            "type": "article",
+            "authors": "M. Tennenbaum, C. Anderson, J. Hyatt, C. Do, A. Fernandez-Nieves",
+            "title": "Internal structure of ultralow-crosslinked microgels: From uniform deswelling to phase separation",
+            "journal": "Physical Review E",
+            "volume": "103",
+            "page": "022614",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.022614"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Scotti, M. Fernandez-Pelaez, U. Gasser, A. Fernandez-Nieves",
+            "title": "Osmotic pressure of suspensions comprised of charged microgels",
+            "journal": "Physical Review E",
+            "volume": "103",
+            "page": "012609",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.012609"
+        }
+
+    ],
+
+    "2020": [
+
+        {
+            "type": "article",
+            "authors": "N. Svetoslav, A. Fernandez-Nieves, A. Alexeev",
+            "title": "Behavior and Mechanics of Dense Microgel Suspensions",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "volume": "117",
+            "page": "27096",
+            "link": "https://www.pnas.org/doi/10.1073/pnas.2008076117"
+        },
+
+        {
+            "type": "article",
+            "authors": "M. Tennenbaum, A. Fernandez-Nieves",
+            "title": "Activity effects on the nonlinear mechanical properties of fire-ant aggregations",
+            "journal": "Physical Review E",
+            "volume": "102",
+            "page": "012602",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.012602"
+        },
+
+        {
+            "type": "article",
+            "authors": "B. Zhou, A. Fernandez-Nieves, Alberto, W. R. Chen, T. H. Kim, C. Do",
+            "title": "Complexation of Pluronic L62 (EO6)-(PO34)-(EO6)/aerosol-OT (sodium bis(2-ethylhexyl)sulfosuccinate) in aqueous solutions investigated by small angle neutron scattering",
+            "journal": "Physical Chemistry Chemical Physics",
+            "volume": "22",
+            "page": "12524",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp00603c"
+        },
+
+        {
+            "type": "article",
+            "authors": "S. Mahajan, M. Tennenbaum, S. N. Pathak, D. Baxter, X. Fan, P. Padilla, C. Anderson, A. Fernandez-Nieves, M. Pica Ciamarra",
+            "title": "Reverse Janssen Effect in Narrow Granular Column",
+            "journal": "Physical Review Letters",
+            "volume": "124",
+            "page": "128002",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.128002"
+        },
+
+        {
+            "type": "article",
+            "authors": "P. W. Ellis, S. Klanecek, A. Fernandez-Nieves",
+            "title": "Polarized epifluorescence microscopy and the imaging of nematic liquid crystals in highly curved geometries",
+            "journal": "Physical Review E",
+            "volume": "101",
+            "page": "052703",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.052703"
+        },
+
+        {
+            "type": "article",
+            "authors": "O. Okesanjo, M. Tennenbaum, A. Fernandez-Nieves, J. C. Meredith, S. H. Behrens",
+            "title": "Rheology of Capillary Foams",
+            "journal": "Soft Matter",
+            "volume": "16",
+            "page": "6725",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2020/sm/d0sm00384k"
+        },
+
+        {
+            "type": "article",
+            "authors": "P. W. Ellis, J. Nambisan, A. Fernandez-Nieves",
+            "title": "Coherence-enhanced diffusion filtering applied to partially-ordered fluids",
+            "journal": "Molecular Physics",
+            "volume": "118",
+            "page": "e1725167",
+            "link": "https://www.tandfonline.com/doi/abs/10.1080/00268976.2020.1725167"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. Guerrero, Y-W. Chang, A. A. Fragkopoulos, A. Fernandez-Nieves",
+            "title": "Capillary-based microfluidics - coflow, flow-focusing, electro-coflow, drops, jets, and instabilities",
+            "journal": "Small",
+            "volume": "16",
+            "page": "1904344",
+            "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201904344"
+        }
+
+
+    ],
+
+    "2019": [
+
+        {
+            "type": "article",
+            "authors": "M. S. Dimitriyev, Y-W. Chang, P. M. Goldbart, A. Fernandez-Nieves",
+            "title": "Swelling thermodynamics and phase transitions of polymer gels",
+            "journal": "Nano Futures",
+            "volume": "3",
+            "page": "042001",
+            "link": "https://iopscience.iop.org/article/10.1088/2399-1984/ab45d5/meta"
+        },
+
+        {
+            "type": "article",
+            "authors": "H. Yang, Y. Zhang, M. J. Tennenbaum, Z. Althouse, Y. Ma, Y. He, Y. Wu, T. Wu, A. Mathur, P. Chen, Y. Huang, A. Fernandez-Nieves, P. A. Kohl, N. Liu",
+            "title": "Polypropylene Carbonate-Based Adaptive Buffer Layer for Stable Interfaces of Solid Polymer Lithium Metal Batteries",
+            "journal": "ACS Applied Materials & Interfaces",
+            "volume": "11",
+            "page": "31",
+            "link": "https://pubs.acs.org/doi/10.1021/acsami.9b08285"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. Guerrero, A. J. Hijano, M. A. Lobato, F. J. Higuera, I. G. Loscertales, A. Fernandez-Nieves",
+            "title": "Polypropylene Carbonate-Based Adaptive Buffer Layer for Stable Interfaces of Solid Polymer Lithium Metal Batteries",
+            "journal": "Physics of Fluids",
+            "volume": "31",
+            "page": "082009",
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.5121714?feed=most-recent&af=R&journalCode=phf"
+        },
+
+        {
+            "type": "article",
+            "authors": "D. J. G. Pearce, P. W. Ellis, A. Fernandez-Nieves, L. Giomi",
+            "title": "Geometrical Control of Active Turbulence in Curved Topographies",
+            "journal": "Physical Review Letters",
+            "volume": "122",
+            "page": "168002",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.168002"
+        },
+
+        {
+            "type": "article",
+            "authors": "S. Nikolov, A. Fernandez-Nieves, A. Alexeev",
+            "title": "Phagocyte-Inspired Smart Microcapsules",
+            "journal": "ACS Macro Letters",
+            "volume": "8",
+            "page": "421",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/acsmacrolett.8b00992"
+        },
+
+        {
+            "type": "article",
+            "authors": "U. Gasser, A. Scotti, A. Fernandez-Nieves",
+            "title": "Spontaneous deswelling of microgels controlled by counterion clouds",
+            "journal": "Physical Review E",
+            "volume": "99",
+            "page": "042602",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042602"
+        },
+
+        {
+            "type": "article",
+            "authors": "P. W. Ellis , E. Pairam, A. Fernandez-Nieves",
+            "title": "Simulating optical polarizing microscopy textures using Jones calculus: a review exemplified with nematic liquid crystal tori",
+            "journal": "Journal of Physics D: Applied Physics",
+            "volume": "52",
+            "page": "213001",
+            "link": "https://iopscience.iop.org/article/10.1088/1361-6463/ab08a7"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. P. McInerney, P. W. Ellis, D. Zeb Rocklin, A. Fernandez-Nieves, E. A. Matsumoto",
+            "title": "Curved boundaries and chiral instabilities - two sources of twist in homeotropic nematic tori",
+            "journal": "Soft Matter",
+            "volume": "15",
+            "page": "1210",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2019/sm/c8sm02055h/unauth"
+        }
+
+    ],
+
+    "2018": [
+
+        {
+            "type": "article",
+            "authors": "P. W. Ellis, K. Nayani, J. P. McInerney, D. Z. Rocklin, J. O. Park, M. Srinivasarao, E. A. Matsumoto, A. Fernandez-Nieves",
+            "title": "Curvature-Induced Twist in Homeotropic Nematic Tori",
+            "journal": "Physical Review Letters",
+            "volume": "121",
+            "page": "247803",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.247803"
+        },
+
+        {
+            "type": "article",
+            "authors": "S. C. Karunakaran, B. J. Cafferty, M. Pelaez-Fernandez , K. Neselu, I. Schmidt-Krey, A. Fernandez-Nieves, G. B. Schuster, N. V. Hud",
+            "title": "Exquisite regulation of supramolecular equilibrium polymers in water: chain stoppers control length, polydispersity and viscoelasticity",
+            "journal": "Polymer Chemistry",
+            "volume": "9",
+            "page": "5268",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2018/py/c8py01146j/unauth"
+        },
+
+        {
+            "type": "article",
+            "authors": "Y-W. Chang, M. S. Dimitriyev, A. Souslov, S. V. Nikolov, S. M. Marquez, A. Alexeev, P. M. Goldbart, A. Fernandez-Nieves",
+            "title": "Extreme thermodynamics with polymer gel tori: Harnessing thermodynamic instabilities to induce large-scale deformations",
+            "journal": "Physical Review E",
+            "volume": "98",
+            "page": "020501(R)",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.020501"
+        },
+
+        {
+            "type": "article",
+            "authors": "P. W. Ellis, S. Huang, S. Klaneček, J. Vallamkondu, E. Dannemiller, M. Vernon, Y. Chang, P. M. Goldbart, A. Fernandez-Nieves",
+            "title": "Defect transitions in nematic liquid-crystal capillary bridges",
+            "journal": "Physical Review E",
+            "volume": "97",
+            "page": "040701(R)",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.040701"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. A. Fragkopoulos, E. Pairam, L. Marinkovic, A. Fernandez-Nieves",
+            "title": "Breakup dynamics of toroidal droplets in shear-thinning fluids",
+            "journal": "Physical Review E",
+            "volume": "97",
+            "page": "021101(R)",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.021101"
+        },
+
+        {
+            "type": "article",
+            "authors": "S. V. Nikolov, A. Fernandez-Nieves, A. Alexeev",
+            "title": "Mesoscale modeling of microgel mechanics and kinetics through the swelling transition",
+            "journal": "Applied Mathematics and Mechanics (English Edition)",
+            "volume": "39",
+            "page": "47",
+            "link": "https://link.springer.com/article/10.1007/s10483-018-2259-6"
+        },
+
+        {
+            "type": "article",
+            "authors": "P. W. Ellis, D. J. G. Pearce, Y-W. Chang, G. Goldsztein, L. Giomi, A. Fernandez-Nieves",
+            "title": "Curvature-induced Defect Unbinding and Dynamics in Active Nematic Toroidson",
+            "journal": "Nature Physics",
+            "volume": "14",
+            "page": "85",
+            "link": "https://www.nature.com/articles/nphys4276"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. A. Fragkopoulos, E. Pairam, E. Berger, A. Fernandez-Nieves",
+            "title": "Toroidal droplets - growth rates, dispersion relations and behavior in the thick-torus limit",
+            "journal": "Langmuir",
+            "volume": "34",
+            "page": "1218",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.7b02280"
+        }
+
+    ],
+
+    "2017": [
+
+        {
+            "type": "article",
+            "authors": "M. Tennenbaum, A. Fernandez-Nieves",
+            "title": "Activity-driven changes in the mechanical properties of fire ant aggregations",
+            "journal": "Physical Review E",
+            "volume": "96",
+            "page": "052601",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.052601"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Scotti, U. Gasser, E. S. Herman, Jun Han, A. Menzel, L. A. Lyon, A. Fernandez-Nieves",
+            "title": "Phase behavior of binary and polydisperse suspensions of compressible microgels controlled by selective particle deswelling",
+            "journal": "Physical Review E",
+            "volume": "96",
+            "page": "0032609",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.032609"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. A. Fragkopoulos, A. Aizenman, A. Fernandez-Nieves",
+            "title": "Charge-induced Saffman-Taylor instabilities in toroidal droplets",
+            "journal": "Physical Review Letters",
+            "volume": "118",
+            "page": "264501",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.264501"
+        },
+
+        {
+            "type": "article",
+            "authors": "J.-H. Kang, S. S. Lee, J. Guerrero, A. Fernandez-Nieves, S-H. Kim, E. Reichmanis",
+            "title": "Ultrathin Double-Shell Capsules for High Performance Photon Upconversion",
+            "journal": "Advanced Materials",
+            "volume": "29",
+            "page": "1606830",
+            "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201606830"
+        },
+
+        {
+            "type": "article",
+            "authors": "K.-T. Wu, J. B. Hishamunda, D. T. N. Chen, S. J. DeCamp, Y.-W. Chang, A. Fernandez-Nieves, S. Fraden, Z. Dogic",
+            "title": "Transition from turbulent to coherent flows in confined three-dimensional active fluids",
+            "journal": "Science",
+            "volume": "355",
+            "page": "1204",
+            "link": "https://www.science.org/doi/10.1126/science.aal1979"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. A. Fragkopoulos, A. Fernandez-Nieves",
+            "title": "Toroidal-droplet instabilities in the presence of charge",
+            "journal": "Physical Review E",
+            "volume": "95",
+            "page": "033122",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.033122"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. A. Fragkopoulos, E. Pairam, E. Berger, P. N. Segre, A. Fernandez-Nieves",
+            "title": "Shrinking instability of toroidal droplets",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "volume": "114",
+            "page": "2871",
+            "link": "https://www.pnas.org/doi/abs/10.1073/pnas.1619073114"
+        },
+
+        {
+            "type": "article",
+            "authors": "D. R. Myers, Y. Qiu, M. E. Fay, M. Tennenbaum, D. Chester, J. Cuadrado, Y. Sakurai, J. Baek, R. Tran, J. C. Ciciliano, B. Ahn, R. G. Mannino, S. T. Bunting, C. Bennett, M. Briones, A. Fernandez-Nieves, M. L. Smith, A. C. Brown, T. Sulchek, W. A. Lam",
+            "title": "Single-platelet nanomechanics measured by high-throughput cytometry",
+            "journal": "Nature Materials",
+            "volume": "16",
+            "page": "230",
+            "link": "https://www.nature.com/articles/nmat4772"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. M. Douglas, A. A. Fragkopoulos, M. K. Gaines, L. A. Lyon, A. Fernandez-Nieves, T. H. Barker",
+            "title": "Dynamic assembly of ultrasoft colloidal networks enables cell invasion within restrictive fibrillar polymers",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "volume": "115",
+            "page": "885",
+            "link": "https://www.pnas.org/doi/abs/10.1073/pnas.1607350114"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. S. Hyatt, A. M. Douglas, C. Stanley, C. Do, T. H. Barker, A. Fernandez-Nieves",
+            "title": "Charge segregation in weakly ionized microgels",
+            "journal": "Physical Review E",
+            "volume": "95",
+            "page": "012608",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.012608"
+        },
+
+        {
+            "type": "article",
+            "authors": "J.-H. Kang, S.-H. Kim, A. Fernandez-Nieves, E. Reichmanis",
+            "title": "Amplified Photon Upconversion by Photonic Shell of Cholesteric Liquid Crystals",
+            "journal": "Journal of the American Chemical Society",
+            "volume": "139",
+            "page": "16",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/jacs.7b01981"
+        },
+
+        {
+            "type": "article",
+            "authors": "K. Shin, G. Gong, J. Cuadrado, S. Jeon, M. Seo, H. S. Choi, J. Sung Hwang, Y. Lee, A. Fernandez-Nieves, J-W. Kim",
+            "title": "Structurally stable attractive nanoscale emulsions with dipole-dipole interaction-driven interdrop percolation",
+            "journal": "Chemistry A European Journal",
+            "volume": "23",
+            "page": "4292",
+            "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201604722"
+        }
+
+
+    ],
+
+    "2016": [
+
+        {
+            "type": "article",
+            "authors": "V. Koning, T. Lopez-Leon, A. Darmon, A. Fernandez-Nieves, V. Vitelli",
+            "title": "Spherical nematic shells with a threefold valence",
+            "journal": "Physical Review E",
+            "volume": "94",
+            "page": "012703",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.012703"
+        },
+
+        {
+            "type": "Book Chapter",
+            "authors": "E. Castro Hernandez, J. Guerrero, A. Fernandez-Nieves, J. M. Gordillo",
+            "chaptertitle": "Drop generation in controlled fluid flows",
+            "booktitle": "Fluids, Colloids and Soft Materials: An Introductions to Soft Matter Physics",
+            "editors": "A. Fernandez-Nieves, A. M. Puertas",
+            "publisher" : "Wiley-VCH Verlag & Co. KGaA"
+        },
+
+        {
+            "type": "Edited Book",
+            "booktitle": "Fluids, Colloids and Soft Materials: An Introductions to Soft Matter Physics",
+            "editors": "A. Fernandez-Nieves, A. M. Puertas",
+            "publisher" : "Wiley-VCH Verlag & Co. KGaA"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Scotti, U. Gasser, E. S. Herman, M. Pelaez-Fernandez, J. Hand, A. Menzel, L. A. Lyon, A. Fernandez-Nieves",
+            "title": "The role of ions in the self-healing behavior of soft particle suspensions",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "volume": "113",
+            "page": "20",
+            "link": "https://www.pnas.org/doi/abs/10.1073/pnas.1516011113"
+        },
+
+        {
+            "type": "article",
+            "authors": "M. Tennenbaum, Z. Liu, D. Hu, A. Fernandez-Nieves",
+            "title": "Mechanics of fire ant aggregations",
+            "journal": "Nature Materials",
+            "volume": "15",
+            "page": "54",
+            "link": "https://www.nature.com/articles/nmat4450"
+        }
+
+    ],
+
+    "2015": [
+
+        {
+            "type": "article",
+            "authors": "Z. Liu, H. M. Wyss, A. Fernandez-Nieves, H. C. Shum",
+            "title": "Dynamics of oppositely charged emulsion droplets",
+            "journal": "Physics of Fluids",
+            "volume": "27",
+            "page": "082003",
+            "link": "https://aip.scitation.org/doi/full/10.1063/1.4928854"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. S. Hyatt, C. Do, X. Hu, H. S. Choi, J. W. Kim, L. A. Lyon, A. Fernandez-Nieves",
+            "title": "Segregation of mass at the periphery of N-isopropylacrylamide-co-acrylic-acid microgels at high temperatures",
+            "journal": "Physical Review E",
+            "volume": "92",
+            "page": "030302(R)",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.030302"
+        },
+
+        {
+            "type": "article",
+            "authors": "K. Nayani, R. Chang, J. Fu, P. W. Ellis, A. Fernandez-Nieves, J. O. Park, M. Srinivasarao",
+            "title": "Spontaneous emergence of chirality in achiral lyotropic chromonic liquid crystals confined to cylinders",
+            "journal": "Nature Communications",
+            "volume": "6",
+            "page": "8067",
+            "link": "https://www.nature.com/articles/ncomms9067"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Scotti, W. Liu, J. S. Hyatt, E.S. Herman, H. S. Choi, J. W. Kim, L. A. Lyon, U. Gasser, A. Fernandez-Nieves",
+            "title": "The CONTIN algorithm and its application to determine the size distribution of microgel suspensions",
+            "journal": "Journal of Chemical Physics",
+            "volume": "142",
+            "page": "234905",
+            "link": "https://aip.scitation.org/doi/full/10.1063/1.4921686"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. A. Fragkopoulos, P. W. Ellis, A. Fernandez-Nieves",
+            "title": "Teaching Rayleigh-Plateau instabilities in the laboratory",
+            "journal": "European Journal of Physics",
+            "volume": "36",
+            "page": "055023",
+            "link": "https://iopscience.iop.org/article/10.1088/0143-0807/36/5/055023"
+        },
+
+        {
+            "type": "article",
+            "authors": "C. J. Higginson, S. Y. Kim, M. Pelaz-Fernandez, A. Fernandez-Nieves, M. G. Finn",
+            "title": "Modular Degradable Hydrogels Based on Thiol-Reactive Oxanorbornadiene Linkers",
+            "journal": "Journal of the American Chemical Society",
+            "volume": "137",
+            "page": "4984",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/jacs.5b02708"
+        },
+
+        {
+            "type": "article",
+            "authors": "Y. W. Chang, A. A. Fragkopoulos, S. M. Marquez, H. D. Kim, T. E. Angelini, A. Fernandez-Nieves",
+            "title": "Biofilm formation in geometries with different surface curvature and oxygen availability",
+            "journal": "Journal of the American Chemical Society",
+            "volume": "137",
+            "page": "4984",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/jacs.5b02708"
+        },
+
+        {
+            "type": "article",
+            "authors": "M. Pelaez-Fernandez, A. Souslov, L. A. Lyon, P. M. Goldbart, A. Fernandez-Nieves",
+            "title": "Impact of Single-Particle Compressibility on the Fluid-Solid Phase Transition for Ionic Microgel Suspensions",
+            "journal": "Physical Review Letters",
+            "volume": "114",
+            "page": "098303",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.098303"
+        }
+
+
+
+    ],
+
+    "2014": [
+
+        {
+            "type": "article",
+            "authors": "E. Pairam, H. Le, A. Fernandez-Nieves",
+            "title": "Stability of toroidal droplets inside yield stress materials",
+            "journal": "Physical Review E",
+            "volume": "90",
+            "page": "021002(R)",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.021002"
+        },
+
+        {
+            "type": "article",
+            "authors": "U. Gasser, J. Hyatt, J.-J. Lietor-Santos, E. S. Herman, L. A. Lyon, A. Fernandez-Nieves",
+            "title": "Form factor of pNIPAM microgels in overpacked states",
+            "journal": "Journal of Chemical Physics",
+            "volume": "141",
+            "page": "034901",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/25053336/"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. Guerrero, J. Rivero, V. R. Gundabala, M. Perez-Saborid, A. Fernandez-Nieves",
+            "title": "Whipping of electrified liquid jets",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "volume": "111",
+            "page": "13763",
+            "link": "https://www.pnas.org/doi/abs/10.1073/pnas.1411698111"
+        }
+
+    ],
+
+    "2013": [
+
+        {
+            "type": "article",
+            "authors": "U. Gasser, J.-J. Lietor-Santos, A. Scotti, O. Bunk, A. Menzel, A. Fernandez-Nieves",
+            "title": "Transient formation of bcc crystals in suspensions of poly(N-isopropylacrylamide)-based microgels",
+            "journal": "Physical Review E",
+            "volume": "88",
+            "page": "052308",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.052308"
+        },
+
+        {
+            "type": "article",
+            "authors": "N. Vilanova, C. Rodriguez Abreu, A. Fernandez-Nieves, C. Solans",
+            "title": "Fabrication of novel silicone capsules with tunable mechanical properties by microfluidic techniques",
+            "journal": "ACS Applied Materials & Interfaces",
+            "volume": "5",
+            "page": "5247",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/am4010896"
+        },
+
+        {
+            "type": "article",
+            "authors": "E. Pairam, J. Vallamkondu, V. Koning, B. C. van Zuiden, P. W. Ellis, M. A. Bates, V. Vitelli, A. Fernandez-Nieves",
+            "title": "Stable nematic droplets with handles",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "volume": "110",
+            "page": "9235",
+            "link": "https://www.pnas.org/doi/10.1073/pnas.1221380110"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. O. Hardin, A. Fernandez-Nieves, C. J. Martinez, V. T. Milam",
+            "title": "Altering Colloidal Surface Functionalization Using DNA Encapsulated Inside Monodisperse Gelatin Microsphere Templates",
+            "journal": "Langmuir",
+            "volume": "29",
+            "page": "5534",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/la400280x"
+        },
+
+        {
+            "type": "article",
+            "authors": "V. Koning, T. Lopez-Leon, A. Fernandez-Nieves, V. Vitelli",
+            "title": "Bivalent defect configurations in inhomogeneous nematic shells",
+            "journal": "Soft Matter",
+            "volume": "9",
+            "page": "4993",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2013/SM/C3SM27671F"
+        },
+
+        {
+            "type": "article",
+            "authors": "V. R. Gundabala, S. Martinez-Escobar, S. M. Marquez, M. Marquez, A. Fernandez-Nieves",
+            "title": "Cellodoisomes via glass-based microfludics",
+            "journal": "Journal of Physics D: Applied Physics",
+            "volume": "46",
+            "page": "114006",
+            "link": "https://iopscience.iop.org/article/10.1088/0022-3727/46/11/114006"
+        }
+
+    ],
+
+    "2012": [
+
+        {
+            "type": "article",
+            "authors": "T. Lopez-Leon, M. A. Bates, A. Fernandez-Nieves",
+            "title": "Defect coalescence in spherical nematic shells",
+            "journal": "Physical Review E",
+            "volume": "86",
+            "page": "030702(R)",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.86.030702"
+        },
+
+        {
+            "type": "article",
+            "authors": "D. Sec, T. Lopez-Leon, M. Nobili, C. Blanc, A. Fernandez-Nieves, M. Ravnik, S. Zumer",
+            "title": "Defect trajectories in nematic shells: Role of elastic anisotropy and thickness heterogeneity",
+            "journal": "Physical Review E",
+            "volume": "86",
+            "page": "020705(R)",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.86.020705"
+        },
+
+        {
+            "type": "Book Chapter",
+            "authors": "J. J. Lietor-Santos, U. Gasser, J. Zhou, Z. Hu, A. Fernandez-Nieves",
+            "chaptertitle": "Crystals of microgel particles",
+            "booktitle": "Hydrogel Micro and Nanoparticles",
+            "editors": "L. A. Lyon, M. J. Serpe",
+            "publisher" : "Wiley-VCH Verlag & Co. KGaA"
+        },
+
+        {
+            "type": "article",
+            "authors": "T. Lopez-Leon, A. Fernandez-Nieves, M. Nobili, C. Blanc",
+            "title": "Smectic shells",
+            "journal": "Journal of Physics: Condensed Matter",
+            "volume": "24",
+            "page": "284122",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/22738871/"
+        },
+
+        {
+            "type": "article",
+            "authors": "L. F. Rull, J. M. Romero-Enrique, A. Fernandez-Nieves",
+            "title": "Computer simulations of nematic drops: Coupling between drop shape and nematic order",
+            "journal": "Journal of Chemical Physics",
+            "volume": "137",
+            "page": "034505",
+            "link": "https://aip.scitation.org/doi/full/10.1063/1.4733974"
+        },
+
+        {
+            "type": "article",
+            "authors": "L. Andrew Lyon, A. Fernandez-Nieves",
+            "title": "The Polymer/Colloid Duality of Microgel Suspensions",
+            "journal": "Annual Review of Physical Chemistry",
+            "volume": "63",
+            "page": "25",
+            "link": "https://www.annualreviews.org/doi/abs/10.1146/annurev-physchem-032511-143735"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. C. Gaulding, M. H. Smith, J. S. Hyatt, A. Fernandez-Nieves, L. Andrew Lyon",
+            "title": "Reversible Inter- and Intra-Microgel Cross-Linking using Disulfides",
+            "journal": "Macromolecules",
+            "volume": "45",
+            "page": "39",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/ma202282p"
+        },
+
+        {
+            "type": "article",
+            "authors": "B. Sierra-Martin, A. Fernandez-Nieves",
+            "title": "Phase and non-equilibrium behaviour of microgel suspensions as a function of particle stiffness",
+            "journal": "Soft Matter",
+            "volume": "8",
+            "page": "4141",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2012/sm/c2sm06973c"
+        },
+
+        {
+            "type": "article",
+            "authors": "G. Romeo, L. Imperiali, J-W. Kim, A. Fernandez-Nieves, D. A. Weitz",
+            "title": "Origin of de-swelling and dynamics of dense ionic microgel suspensions",
+            "journal": "Journal of Chemical Physics",
+            "volume": "136",
+            "page": "124905",
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.3697762"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. Clara-Rahola, A. Fernandez-Nieves, B. Sierra-Martin, A. B. South, L. A. Lyon, J. Kohlbrecher, A. Fernandez-Barbero",
+            "title": "Structural properties of thermosensitive poly(N-isopropylacrylamide)-poly(ethyleneglycol) microgels",
+            "journal": "Journal of Chemical Physics",
+            "volume": "136",
+            "page": "214903",
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.4723686"
+        }
+
+    ],
+
+    "2011": [
+
+        {
+            "type": "article",
+            "authors": "J. J. Lietor-Santos, B. Sierra-Martin, A. Fernandez-Nieves",
+            "title": "Bulk and shear moduli of compressed microgel suspensions",
+            "journal": "Physical Review E",
+            "volume": "84",
+            "page": "060402",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.060402"
+        },
+
+        {
+            "type": "article",
+            "authors": "B. Sierra-Martin, Y. Laporte, A. B. South, L. A. Lyon, A. Fernandez-Nieves",
+            "title": "Bulk modulus of poly(N-isopropylacrylamide) microgels through the swelling transition",
+            "journal": "Physical Review E",
+            "volume": "84",
+            "page": "011406",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.011406"
+        },
+
+        {
+            "type": "article",
+            "authors": "N. Vilanova, V. R. Gundabala, A. Fernandez-Nieves",
+            "title": "Drop size control in electro-coflow",
+            "journal": "Applied Physics Letters",
+            "volume": "99",
+            "page": "021910",
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.3610949"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. J. Lietor-Santos, B. Sierra-Martin, U. Gasser, A. Fernandez-Nieves",
+            "title": "The effect of hydrostatic pressure over the swelling of microgel particles",
+            "journal": "Soft Matter",
+            "volume": "7",
+            "page": "6370",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2011/sm/c1sm05328k"
+        },
+
+        {
+            "type": "article",
+            "authors": "T. Lopez-Leon, A. Fernandez-Nieves, M. Nobili, C. Blanc",
+            "title": "Nematic-Smectic Transition in Spherical Shells",
+            "journal": "Physical Review Letters",
+            "volume": "106",
+            "page": "247802",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.247802"
+        },
+
+        {
+            "type": "article",
+            "authors": "B. Sierra-Martin, J. A. Frederick, Y. Laporte, G. Markou, J. J. Lietor-Santos, A. Fernandez-Nieves",
+            "title": "Determination of the bulk modulus of microgel particles",
+            "journal": "Colloid and Polymer Science",
+            "volume": "289",
+            "page": "721",
+            "link": "https://link.springer.com/article/10.1007/s00396-010-2346-z"
+        },
+
+        {
+            "type": "article",
+            "authors": "T. Lopez-Leon, V. Koning, K. B. S. Devaiah, V. Vitelli, A. Fernandez-Nieves",
+            "title": "Frustrated Nematic Order in Spherical Geometries",
+            "journal": "Nature Physics",
+            "volume": "7",
+            "page": "391",
+            "link": "https://www.nature.com/articles/nphys1920"
+        },
+
+        {
+            "type": "article",
+            "authors": "T. Lopez-Leon, A. Fernandez-Nieves",
+            "title": "Drops and shells of liquid crystal",
+            "journal": "Colloid and Polymer Science",
+            "volume": "289",
+            "page": "345",
+            "link": "https://link.springer.com/article/10.1007/s00396-010-2367-7"
+        },
+
+        {
+            "type": "Edited Book",
+            "booktitle": "Microgels Suspensions - Fundamentals and Applications",
+            "editors": "A. Fernandez-Nieves, H. M. Wyss, J. Mattsson, D. A. Weitz",
+            "publisher" : "Wiley-VCH Verlag & Co. KGaA"
+        },
+
+        {
+            "type": "Book Chapter",
+            "authors": "H. M. Wyss, J. Mattsson, T. Franke, A. Fernandez-Nieves, D. A. Weitz",
+            "chaptertitle": "Mechanics of single microgel particles",
+            "booktitle": "Microgels Suspensions - Fundamentals and Applications",
+            "editors": "A. Fernandez-Nieves, H. M. Wyss, J. Mattsson, D. A. Weitz",
+            "publisher" : "Wiley-VCH Verlag & Co. KGaA"
+        },
+
+        {
+            "type": "Book Chapter",
+            "authors": "B. Sierra-Martin, J. J. Lietor-Santos, A. Fernandez-Barbero, T. T. Nguyen, A. Fernandez-Nieves",
+            "chaptertitle": "Swelling thermodynamics of microgel particles",
+            "booktitle": "Microgels Suspensions - Fundamentals and Applications",
+            "editors": "A. Fernandez-Nieves, H. M. Wyss, J. Mattsson, D. A. Weitz",
+            "publisher" : "Wiley-VCH Verlag & Co. KGaA"
+        }
+
+    ],
+
+    "2010": [
+
+        {
+            "type": "article",
+            "authors": "V. R. Gundabala, N. Vilanova, A. Fernandez-Nieves",
+            "title": "Current-voltage characteristic of electrospray processes in microfluidics",
+            "journal": "Physical Review Letters",
+            "volume": "112",
+            "page": "154503",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.105.154503"
+        },
+
+        {
+            "type": "article",
+            "authors": "H. C. Shum, A. Sauret, A. Fernandez-Nieves, H. A. Stone, D. A. Weitz",
+            "title": "Corrugated interfaces in multiphase core-annular flow",
+            "journal": "Physics of Fluids",
+            "volume": "22",
+            "page": "082002",
+            "link": "https://aip.scitation.org/doi/full/10.1063/1.3480561"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. J. Lietor-Santos, U. Gasser, R. Vavrin, Z. B. Hu, A. Fernandez-Nieves",
+            "title": "Structural changes of pNIPAM-based microgels induced by hydrostatic pressure and temperature studied by small-angle neutron scattering",
+            "journal": "Journal of Chemical Physics",
+            "volume": "133",
+            "page": "034901",
+            "link": "https://aip.scitation.org/doi/full/10.1063/1.3447386"
+        },
+
+        {
+            "type": "article",
+            "authors": "G. Romeo, A. Fernandez-Nieves, H. M. Wyss, D. Acierno, D.A. Weitz",
+            "title": "Temperature-Controlled Transitions Between Glass, Liquid and Gel States in Dense p-NIPA Suspensions",
+            "journal": "Advanced Materials",
+            "volume": "22",
+            "page": "3441",
+            "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.200904189"
+        },
+
+        {
+            "type": "article",
+            "authors": "U. Gasser, A. Fernandez-Nieves",
+            "title": "Crystal structure of highly concentrated, ionic microgel suspensions studied by small angle X-ray scattering",
+            "journal": "Physical Review E",
+            "volume": "81",
+            "page": "052401",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.81.052401"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. J. Lietor-Santos, C. Kim, M. L. Lynch, A. Fernandez-Nieves, D. A. Weitz",
+            "title": "The Role of Polymer Polydispersity in Phase Separation and Gelation in Colloid-Polymer Mixtures",
+            "journal": "Langmuir",
+            "volume": "26",
+            "page": "3174",
+            "link": "http://pubs.acs.org/doi/abs/10.1021/la903127a"
+        },
+
+        {
+            "type": "article",
+            "authors": "J.E. Diaz, A. Barrero, M. Marquez, A. Fernandez-Nieves, I.G. Loscertales",
+            "title": "Absorption properties of microgel-PVP composite nanofibers made by electrospinning",
+            "journal": "Macromolecular Rapid Communications",
+            "volume": "31",
+            "page": "183",
+            "link": "https://onlinelibrary.wiley.com/doi/10.1002/marc.200900534"
+        }
+    ],
+
+    "2009": [
+
+        {
+            "type": "article",
+            "authors": "Z. Hu, J. Wahrmund, J-W. Kim, L-Y. Chu, C. Wang, Y. Li, A. Fernandez-Nieves, D.A. Weitz, A. Krokhin",
+            "title": "Swelling kinetics of a microgel shell",
+            "journal": "Macromolecules",
+            "volume": "42",
+            "page": "9357",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/ma901362p"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. Mattsson, H.M. Wyss, A. Fernandez-Nieves, K. Miyazaki, Z. Hu, D.R. Reichman, D.A. Weitz",
+            "title": "Soft colloids make strong glasses",
+            "journal": "Nature",
+            "volume": "462",
+            "page": "83",
+            "link": "https://www.nature.com/articles/nature08457"
+        },
+
+        {
+            "type": "article",
+            "authors": "E. de Castro, V. Gundabala, A. Fernandez-Nieves, J.M. Gordillo",
+            "title": "Scaling the drop size in co-flow experiments",
+            "journal": "New Journal of Physics",
+            "volume": "11",
+            "page": "075021",
+            "link": "https://iopscience.iop.org/article/10.1088/1367-2630/11/7/075021"
+        },
+
+        {
+            "type": "article",
+            "authors": "J.J. Lietor-Santos, B. Sierra-Martin, R. Vavrin, Z. Hu, U. Gasser, A. Fernandez-Nieves",
+            "title": "De-swelling microgel particles using hydrostatic pressure",
+            "journal": "Macromolecules",
+            "volume": "42",
+            "page": "6225",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/ma9010654"
+        },
+
+        {
+            "type": "article",
+            "authors": "E. Pairam, A. Fernandez-Nieves",
+            "title": "Generation and stability of toroidal droplets in a viscous liquid",
+            "journal": "Physical Review Letters",
+            "volume": "102",
+            "page": "234501",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/ma9010654"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Barbero, I.J. Suarez, B. Sierra-Martin, A. Fernandez-Nieves, F.J. de las Nieves, M. Marquez, J. Rubio-Retama, E. Lopez-Cabarcos",
+            "title": "Gels and microgels for nanotechnological applications",
+            "journal": "Advances in Colloid and Interface Science",
+            "volume": "147",
+            "page": "88",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/19217018/"
+        },
+
+        {
+            "type": "article",
+            "authors": "U. Gasser, B. Sierra-Martin, A. Fernandez-Nieves",
+            "title": "Crystal structure of highly concentrated, ionic microgel suspensions studied by neutron scattering",
+            "journal": "Physical Review E",
+            "volume": "79",
+            "page": "051403",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.81.052401"
+        },
+
+        {
+            "type": "article",
+            "authors": "K. J. Humphry, A. Ajdari, A. Fernandez-Nieves, H.A. Stone, D.A. Weitz",
+            "title": "Suppression of instabilities in multiphase flow by geometric confinement",
+            "journal": "Physical Review E",
+            "volume": "79",
+            "page": "056310",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.79.056310"
+        },
+
+        {
+            "type": "article",
+            "authors": "T. Lopez-Leon, A. Fernandez-Nieves",
+            "title": "Topological transformations in bipolar shells of nematic liquid crystals",
+            "journal": "Physical Review E",
+            "volume": "79",
+            "page": "021707",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.79.021707"
+        },
+
+        {
+            "type": "article",
+            "authors": "J.J. Lietor-Santos, C. Kim, P.J. Lu, A. Fernandez-Nieves, D.A. Weitz",
+            "title": "Gravitational compression of colloidal gels",
+            "journal": "European Physical Journal E",
+            "volume": "28",
+            "page": "159",
+            "link": "https://pubmed.ncbi.nlm.nih.gov/19018579/"
+        },
+
+        {
+            "type": "article",
+            "authors": "J.J. Lietor-Santos, A. Fernandez-Nieves",
+            "title": "Motion of microgels in electric fields",
+            "journal": "Advances in Colloid and Interface Science",
+            "volume": "147",
+            "page": "178",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0001868608001097"
+        }
+    ],
+
+    "2008": [
+
+        {
+            "type": "article",
+            "authors": "D. Capriles, B. Sierra-Martin, A. Fernandez-Nieves, A. Fernandez-Barbero",
+            "title": "Coupled de-swelling of multiresponsive microgels",
+            "journal": "Journal of Physical Chemistry B",
+            "volume": "112",
+            "page": "12195",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/jp8003773"
+        },
+
+        {
+            "type": "article",
+            "authors": "G. Romeo, G. Filippone, A. Fernandez-Nieves, P. Russo, D. Acierno",
+            "title": "Elasticity and dynamics of particle gels in non-Newtonian melts",
+            "journal": "Rheologica Acta",
+            "volume": "47",
+            "page": "989",
+            "link": "https://link.springer.com/article/10.1007/s00397-008-0291-2"
+        },
+
+        {
+            "type": "article",
+            "authors": "J.E. Diaz, A. Fernandez-Nieves, A. Barrero, M. Marquez, I.G. Loscertales",
+            "title": "Fabrication of structured micro and nanofibers by coaxial electrospinning",
+            "journal": "Journal of Physics: Conference Series",
+            "volume": "127",
+            "page": "012008",
+            "link": "https://iopscience.iop.org/article/10.1088/1742-6596/127/1/012008"
+        },
+
+        {
+            "type": "article",
+            "authors": "R.K. Shah, H.C. Shum, A.C. Rowat, D. Lee, J.J. Agresti, A.S. Utada, L-Y. Chu, J-W. Kim, A. Fernandez-Nieves, C.J. Martinez, D.A. Weitz",
+            "title": "Designer emulsions using microfluidics",
+            "journal": "Materials Today",
+            "volume": "11",
+            "page": "18",
+            "link": "https://www.sciencedirect.com/science/article/pii/S1369702108700531"
+        },
+
+        {
+            "type": "article",
+            "authors": "A.S. Utada, A. Fernandez-Nieves, J.M. Gordillo, D.A. Weitz",
+            "title": "Absolute instability of a liquid jet in a co-flowing stream",
+            "journal": "Physical Review Letters",
+            "volume": "100",
+            "page": "014502",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.014502"
+        },
+
+        {
+            "type": "article",
+            "authors": "E.C. Cho, J-W. Kim, A. Fernandez-Nieves, D.A. Weitz",
+            "title": "Highly responsive hydrogel scaffolds by 3-dimensional organization of sub-micron sized microgel nanoparticles",
+            "journal": "Nano Letters",
+            "volume": "8",
+            "page": "168",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/nl072346e"
+        }
+    ],
+
+    "2007": [
+
+        {
+            "type": "article",
+            "authors": "J.J. Lietor-Santos, M. Chavez, M. Marquez, A. Fernandez-Nieves, M. Medina-Noyola",
+            "title": "State diagram for the electrostatic adsorption of charged colloids on the confining walls: Simulation and theory",
+            "journal": "Physical Review E",
+            "volume": "76",
+            "page": "050403(R)",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.76.050403"
+        },
+
+        {
+            "type": "article",
+            "authors": "A.S. Utada, L-Y. Chu, A. Fernandez-Nieves, D.R. Link, C. Holtze, D.A. Weitz",
+            "title": "Dripping, jetting, drops and wetting: The magic of microfluidics",
+            "journal": "MRS Bulletin",
+            "volume": "32",
+            "page": "702",
+            "link": "https://www.cambridge.org/core/journals/mrs-bulletin/article/abs/dripping-jetting-drops-and-wetting-the-magic-of-microfluidics/F9EF70D1506F4B6EED01F2917F04F0E8"
+        },
+
+        {
+            "type": "article",
+            "authors": "K.S. Abedin, C. Kerbage, A. Fernandez-Nieves, D.A. Weitz",
+            "title": "Optical manipulation and rotation of liquid crystal drops using high-index fiber-optic tweezers",
+            "journal": "Applied Physics Letters",
+            "volume": "91",
+            "page": "091119",
+            "link": "https://aip.scitation.org/doi/full/10.1063/1.2775321"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, V. Vitelli, A.S. Utada, D.R. Link, D.R. Nelson, D.A. Weitz",
+            "title": "Novel defect structures in nematic liquid crystal shells",
+            "journal": "Physical Review Letters",
+            "volume": "99",
+            "page": "157801",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.157801"
+        },
+
+        {
+            "type": "article",
+            "authors": "J-W. Kim, A. Fernandez-Nieves, N. Dan, A.S. Utada, M. Marquez, D.A. Weitz",
+            "title": "Colloidal assembly route for responsive colloidosomes with tunable permeability",
+            "journal": "Nano Letters",
+            "volume": "7",
+            "page": "2876",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/nl0715948"
+        },
+
+        {
+            "type": "article",
+            "authors": "A.S. Utada, A. Fernandez-Nieves, H.A. Stone, D.A. Weitz",
+            "title": "Dripping to jetting transitions in co-flowing liquids",
+            "journal": "Physical Review Letters",
+            "volume": "99",
+            "page": "094502",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.094502"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, D.R. Link, M. Marquez, D.A. Weitz",
+            "title": "Topological changes in bipolar nematic droplets under flow",
+            "journal": "Physical Review Letters",
+            "volume": "98",
+            "page": "087801",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.087801"
+        },
+
+        {
+            "type": "article",
+            "authors": "J-W. Kim, A.S. Utada, A. Fernandez-Nieves, Z. Hu, D.A. Weitz",
+            "title": "Fabrication of monodisperse gel shells and functional microgels in microfluidic devices",
+            "journal": "Angewandte Chimie International Edition",
+            "volume": "46",
+            "page": "1819",
+            "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.200604206"
+        },
+
+        {
+            "type": "article",
+            "authors": "T. Lopez-Leon, A. Fernandez-Nieves",
+            "title": "Probing the entropic influence of ions macroscopically: de-swelling neutral microgels with salt",
+            "journal": "Physical Review E",
+            "volume": "75",
+            "page": "011801",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.75.011801"
+        }
+    ],
+
+    "2006": [
+
+        {
+            "type": "article",
+            "authors": "I.J. Suarez-Suarez, A. Fernandez-Nieves, M. Marquez",
+            "title": "Swelling kinetics of poly-(N-isopropylacrylamide) minigels",
+            "journal": "Journal of Physical Chemistry B",
+            "volume": "110",
+            "page": "25729",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/jp0643754"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Routh, A. Fernandez-Nieves, M. Bradley, B. Vincent",
+            "title": "Effect of added free polymer on the swelling of neutral microgel particles: a thermodynamic approach",
+            "journal": "Journal of Physical Chemistry B",
+            "volume": "110",
+            "page": "12721",
+            "link": "http://pubs.acs.org/doi/abs/10.1021/jp0558831"
+        },
+
+        {
+            "type": "article",
+            "authors": "B. Sierra-Martin, M.S. Romero-Cano, A. Fernandez-Nieves, A. Fernandez-Barbero",
+            "title": "Thermal control over the electrophoresis of soft colloidal particles",
+            "journal": "Langmuir",
+            "volume": "22",
+            "page": "3586",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/la053434m"
+        },
+
+        {
+            "type": "article",
+            "authors": "J. J. Lietor-Santos, A. Fernandez-Nieves, M. Marquez",
+            "title": "Particle migrations induced by confinement of colloidal suspensions along the gravitational direction",
+            "journal": "Physical Review E",
+            "volume": "74",
+            "page": "051404",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.74.051404"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves",
+            "title": "Gotas de Cristal Liquido",
+            "journal": "Investigacion y Ciencia (Spanish Edition of Scientific American)",
+            "volume": "",
+            "page": "",
+            "link": "https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/el-genoma-personalizado-416/gotas-de-cristal-lquido-aplicaciones-4214"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves",
+            "title": "Engineering colloids with optical and geometrical anisotropies: de-coupling size monodispersity and particle properties",
+            "journal": "Soft Matter",
+            "volume": "2",
+            "page": "105",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2006/SM/b512441g"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, D.R. Link, D.A. Weitz",
+            "title": "Polarization dependent Bragg diffraction and electro-optic switching of 3D assemblies of nematic liquid crystal droplets",
+            "journal": "Applied Physics Letters",
+            "volume": "88",
+            "page": "121911",
+            "link": "http://scitation.aip.org/content/aip/journal/apl/88/12/10.1063/1.2187430"
+        }
+    ],
+
+    "2005": [
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero, B. Vincent, F.J. de las Nieves",
+            "title": "Ionic correlations in highly charge-asymmetric colloidal fluids",
+            "journal": "Journal of Chemical Physics",
+            "volume": "123",
+            "page": "054905",
+            "link": "https://aip.scitation.org/doi/10.1063/1.1992480"
+        },
+
+        {
+            "type": "article",
+            "authors": "J.J. Lietor-Santos, A. Fernandez-Nieves, M. Marquez",
+            "title": "Electrophoresis of large polyelectrolyte-coated colloidal particles",
+            "journal": "Physical Review E",
+            "volume": "71",
+            "page": "042401",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.042401"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, G. Cristobal, V. Garces-Chavez, G.C. Spalding, K. Dholakia, D.A. Weitz",
+            "title": "Optically anisotropic colloids of controllable shape",
+            "journal": "Advanced Materials",
+            "volume": "17",
+            "page": "680",
+            "link": "https://onlinelibrary.wiley.com/doi/10.1002/adma.200401462"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, M. Marquez",
+            "title": "Electrophoresis of ionic microgel particles: from hard charged sphere to polyelectrolyte-like behaviour",
+            "journal": "Journal of Chemical Physics",
+            "volume": "122",
+            "page": "084702",
+            "link": "https://aip.scitation.org/doi/full/10.1063/1.1844392"
+        }
+    ],
+
+    "2004": [
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, D.R. Link, D. Rudhardt, D.A. Weitz",
+            "title": "Electro-optics of bipolar nematic liquid cristal droplets",
+            "journal": "Physical Review Letters",
+            "volume": "92",
+            "page": "105503",
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.92.105503"
+        },
+
+        {
+            "type": "article",
+            "authors": "V. Garces-Chavez, D. McGloin, M.D. Summers, A. Fernandez-Nieves, G.C. Spalding, G. Cristobal, K. Dholakia",
+            "title": "Reconstruction of optical angular momentum after distortion in amplitude, phase and polarization",
+            "journal": "Journal of Optics A: Pure and Applied Optics",
+            "volume": "6",
+            "page": "S235",
+            "link": "https://iopscience.iop.org/article/10.1088/1464-4258/6/5/016"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero, F.J. de las Nieves",
+            "title": "Static light scattering from microgel particles: model of variable dielectric permittivity",
+            "journal": "Journal of Chemical Physics",
+            "volume": "120",
+            "page": "374",
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.1629281"
+        }
+    ],
+
+    "2003": [
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero, B. Vincent, F.J. de las Nieves",
+            "title": "Osmotic de-swelling of ionic microgel particles",
+            "journal": "Journal of Chemical Physics",
+            "volume": "119",
+            "page": "10383",
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.1618734"
+        },
+
+        {
+            "type": "article",
+            "authors": "D. Rudhardt, A. Fernandez-Nieves, D.R. Link, D.A. Weitz",
+            "title": "Phase-switching of ordered arrays of liquid crystal emulsions",
+            "journal": "Applied Physics Letters",
+            "volume": "82",
+            "page": "2610",
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.1568818"
+        }
+    ],
+
+    "2002": [
+
+        {
+            "type": "article",
+            "authors": "Y. Levin, A. Diehl and A. Fernandez-Nieves, A. Fernandez-Barbero",
+            "title": "Thermodynamics of ionic microgels",
+            "journal": "Physical Review E",
+            "volume": "65",
+            "page": "036143",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.65.036143"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Barbero, A. Fernandez-Nieves, I. Grillo, E. Lopez-Cabarcos",
+            "title": "Structural modifications in the swelling of inhomogeneous microgels by light and neutron scattering",
+            "journal": "Physical Review E",
+            "volume": "66",
+            "page": "051803",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.66.051803"
+        }
+    ],
+
+    "2001": [
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero, B. Vincent, F.J. de las Nieves",
+            "title": "Reversible aggregation of soft particles",
+            "journal": "Langmuir",
+            "volume": "17",
+            "page": "1841",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/la001351u"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero, F.J. de las Nieves",
+            "title": "Particle-counterion clustering in highly charge asymmetric complex fluids",
+            "journal": "Physical Review E",
+            "volume": "63",
+            "page": "041404",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.63.041404"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero,F.J. de las Nieves",
+            "title": "Nonlinear effects in the stability of highly charged colloidal suspensions",
+            "journal": "Physical Review E",
+            "volume": "64",
+            "page": "032401",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.64.032401"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, J.S. van Duijneveldt, A. Fernandez-Barbero, B. Vincent, F.J. de las Nieves",
+            "title": "Structure formation from mesoscopic soft particles",
+            "journal": "Physical Review E",
+            "volume": "64",
+            "page": "051603",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.64.051603"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero, F.J. de las Nieves",
+            "title": "Salt effects over the swelling of ionized mesoscopic gels",
+            "journal": "Journal of Chemical Physics",
+            "volume": "115",
+            "page": "7644",
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.1403002"
+        }
+    ],
+
+    "2000": [
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero, B. Vincent, F.J. de las Nieves",
+            "title": "Charge controlled swelling of microgel particles",
+            "journal": "Macromolecules",
+            "volume": "33",
+            "page": "2114",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/ma991520l"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero, F.J. de las Nieves",
+            "title": "Experimental test of the ion condensation",
+            "journal": "Langmuir",
+            "volume": "16",
+            "page": "4090",
+            "link": "https://pubs.acs.org/doi/abs/10.1021/la990920z"
+        },
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, A. Fernandez-Barbero, B. Vincent, F.J. de las Nieves",
+            "title": "Motion of microgel particles under the presence of an external electric field",
+            "journal": "Journal of Physics C: Condensed Matter",
+            "volume": "12",
+            "page": "3605",
+            "link": "https://iopscience.iop.org/article/10.1088/0953-8984/12/15/309"
+        }
+    ],
+
+    "1998": [
+
+        {
+            "type": "article",
+            "authors": "A. Fernandez-Nieves, F.J. de las Nieves",
+            "title": "About the propulsion system of a kayak and of Basiliscus-Basiliscus",
+            "journal": "European Journal of Physics",
+            "volume": "19",
+            "page": "425",
+            "link": "https://iopscience.iop.org/article/10.1088/0143-0807/19/5/003"
+        }
+    ]
+}
