@@ -35,6 +35,7 @@ function addData(data) {
 
         let newPersonPicture = document.createElement("img");
         newPersonPicture.src = "./assets/people/" + data[i].picture;
+        newPersonPicture.alt = data[i].Name;
         newPersonPictureCont.appendChild(newPersonPicture);
 
         //Create div to receive metadata about member
