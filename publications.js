@@ -147,7 +147,7 @@ function addPatents (data) {
         newPatent.classList.add("ff-body","text-dark","fs-300","publications-element");
         newPatent.innerHTML = data[i].authors + ", " + 
                                 "<span style='font-style: italic;'>" + data[i].title + "</span>" + ", " +
-                                 data[i].reference;
+                                 data[i].reference + ".";
         patentsContainer.appendChild(newPatent);
 
     }
