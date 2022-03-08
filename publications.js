@@ -76,13 +76,18 @@ function addPublications (data) {
         yearTitle.setAttribute("id",publicationKeys[i])
         publicationsYear.appendChild(yearTitle);
 
+        // Append list of publications of the year to main list
         list.appendChild(publicationsYear);
 
         for (let j =0; j < data[publicationKeys[i]].length; j++){
+            //Loop through elements of the year to append them to the list of publications of the year
 
+            // Create paragraph element to contain the new publication element and style it
             const newPub = document.createElement("p");
             newPub.classList.add("ff-body","text-dark","fs-300","publications-element")
+
             if (data[publicationKeys[i]][j].type === "article"){
+                // First conditional to check if the added publication is a research article, and fill the inner html of the paragraph accordingly
                 newPub.innerHTML = data[publicationKeys[i]][j].authors + ", " +
                                     "<a href ='" + data[publicationKeys[i]][j].link +"' target='_blank'>" + data[publicationKeys[i]][j].title + "</a>" + ", " +
                                     data[publicationKeys[i]][j].journal + " " +
@@ -90,6 +95,7 @@ function addPublications (data) {
                                     data[publicationKeys[i]][j].page + " " +
                                     "(" + publicationKeys[i] + ").";
             } else if(data[publicationKeys[i]][j].type === "Book Chapter"){
+                // Second conditional to check if the added publication is a book chapter, and fill the inner html of the paragraph accordingly
                 newPub.innerHTML = "<span style='text-decoration: underline;'>Book Chapter:</span>" + " " +
                                     data[publicationKeys[i]][j].authors + ", " +
                                     "<span style='font-style: italic;'>" + data[publicationKeys[i]][j].chaptertitle + "</span>" + ", " +
@@ -97,29 +103,37 @@ function addPublications (data) {
                                     "Editors: " + data[publicationKeys[i]][j].editors + 
                                     " (" + data[publicationKeys[i]][j].publisher + ", " + publicationKeys[i] + ").";
             } else if (data[publicationKeys[i]][j].type === "Edited Book"){
+                // Third conditional to check if the added publication is an edited book, and fill the inner html accordingly
                 newPub.innerHTML = "<span style='text-decoration: underline;'>Edited Book:</span>" + " " +
                                     data[publicationKeys[i]][j].booktitle + ", " + 
                                     "Editors: " + data[publicationKeys[i]][j].editors + 
                                     " (" + data[publicationKeys[i]][j].publisher + ", " + publicationKeys[i] + ").";
             }
+            // Append new pubplication element to the list for the year
             publicationsYear.appendChild(newPub)
 
         }
     }
 }
 
+// Routine to add theses in the html page
+
 function addTheses (data) {
+    // Get the header element, which contains all the links for fast navigation and the list element which will hold the publications' details
     const header = document.getElementById("publications-header-collapsible");
     const list = document.getElementById("publications-list");
 
+    // Create, style and append theses link to header with publication years
     const link = document.createElement("div");
     link.innerHTML = "<a href='#Theses'>Theses</a>";
     link.classList.add("ff-body","text-dark","year-link");
     header.appendChild(link);
 
+    // Create and style a container to hold all the theses
     const thesesContainer = document.createElement("div");
     thesesContainer.classList.add("publications-year");
 
+    // Create, style and append title of the section
     const thesesTitle = document.createElement("h2");
     thesesTitle.innerHTML = "Theses"
     thesesTitle.classList.add("ff-body","text-dark","fs-400");
@@ -127,9 +141,13 @@ function addTheses (data) {
     thesesTitle.setAttribute("id","Theses")
     thesesContainer.appendChild(thesesTitle);
 
+    // Append list of thesis to main publications' list
     list.appendChild(thesesContainer);
 
     for (let i = 0; i < data.length; i++){
+        // Loop through the json file to add the theses
+
+        // Create a new paragraph to hold the thesis information. Fill the information, style and append
         const newThesis = document.createElement("p");
         newThesis.classList.add("ff-body","text-dark","fs-300","publications-element");
         newThesis.innerHTML = data[i].author + ", " + 
@@ -140,18 +158,24 @@ function addTheses (data) {
     }
 }
 
+// Routine to add patents in the html page
+
 function addPatents (data) {
+    // Get the header element, which contains all the links for fast navigation and the list element which will hold the publications' details
     const header = document.getElementById("publications-header-collapsible");
     const list = document.getElementById("publications-list");
 
+    // Create, style and append patents link to header with publication years
     const link = document.createElement("div");
     link.innerHTML = "<a href='#Patents'>Patents</a>";
     link.classList.add("ff-body","text-dark","year-link");
     header.appendChild(link);
 
+    // Create and style a container to hold all the patents
     const patentsContainer = document.createElement("div");
     patentsContainer.classList.add("publications-year");
 
+    // Create, style and append title of the section
     const patentsTitle = document.createElement("h2");
     patentsTitle.innerHTML = "Patents"
     patentsTitle.classList.add("ff-body","text-dark","fs-400");
@@ -159,11 +183,14 @@ function addPatents (data) {
     patentsTitle.setAttribute("id","Patents")
     patentsContainer.appendChild(patentsTitle);
 
-    patentsContainer.appendChild(patentsTitle);
+    // Append list of thesis to main publications' list
     list.appendChild(patentsContainer)
 
 
     for (let i = 0; i < data.length; i++){
+        // Loop through the json file to add the patents
+
+        // Create a new paragraph to hold the patent information. Fill the information, style and append
         const newPatent = document.createElement("p");
         newPatent.classList.add("ff-body","text-dark","fs-300","publications-element");
         newPatent.innerHTML = data[i].authors + ", " + 
@@ -174,11 +201,18 @@ function addPatents (data) {
     }
 }
 
+// Execute fetch functions
 
-fetchPublications();
-fetchTheses();
-fecthPatents();
+function executeAsynchronously(functions, timeout) {
+    for(var i = 0; i < functions.length; i++) {
+      setTimeout(functions[i], timeout);
+    }
+  }
 
+executeAsynchronously(
+    [fetchPublications,fetchTheses,fecthPatents], 10);
+
+// Handle Toggle for the years' list when screen size reduces
 
 const years = document.querySelector(".years-list");
 const yearsToggle = document.querySelector(".pub-year-toggle");
