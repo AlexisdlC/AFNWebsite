@@ -379,9 +379,15 @@ nav{
     border: black solid 3px;
     padding-inline: 1rem;
     margin-block: 0.5rem;
-    background: hsl( var(--clr-white) / 0.5);
-    backdrop-filter: blur(16px);
+    background: hsl( var(--clr-white) / 1);
     width: 95%;
+}
+
+@supports (backdrop-filter: blur(1.5rem)){
+    .years-list{
+        background: hsl( var(--clr-white) / .5);
+        backdrop-filter: blur(16px);
+    }
 }
 
 .years-list > *{
@@ -408,7 +414,7 @@ nav{
         top: -0.45rem;
         z-index: 1500;
         background: transparent;
-        background-image: url(./assets/toggle.svg);
+        background-image: url(./assets/shared/toggle.svg);
         background-repeat: no-repeat;
         background-position: center;
         width: 1rem;
@@ -448,6 +454,22 @@ nav{
     #publications-header h1{
         display: none;
     }
+}
+
+/* Back to top button*/
+
+.back-to-top{
+    position: fixed;
+    right: 1rem;
+    bottom: 2rem;
+    background: white;
+    background-image: url(./assets/shared/back-to-the-top-icon.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 2.5rem;
+    aspect-ratio: 1;
+    border: 1px solid hsl( var(--clr-dark) );
 }
 
 /* ------------------------------ */

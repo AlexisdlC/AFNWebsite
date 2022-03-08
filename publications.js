@@ -1,3 +1,5 @@
+// Fetching json file containing all the information about the publications (articles and books)
+
 fetch("publications.json")
     .then(function (response){
         return response.json();
@@ -8,6 +10,9 @@ fetch("publications.json")
     .catch(function (err) {
         console.log(err);
     })
+
+
+// Fetching json file containing all the information about the theses
 
 fetch("theses.json")
     .then(function (response){
@@ -20,6 +25,8 @@ fetch("theses.json")
         console.log(err);
     })
 
+// Fetching json file containing all the information about patents
+
 fetch("patents.json")
     .then(function (response){
         return response.json();
@@ -31,23 +38,32 @@ fetch("patents.json")
         console.log(err);
     })
 
+// Routine to add publications in html page
 
 function addPublications (data) {
+    // Obtain the keys of the json file which are the years of publication. Note the reverse as the keys will be sorted chronologically, but we want 
+    // publications to appear on the page as most recent first
     const publicationKeys = Object.keys(data).reverse();
 
+    // Get the header element, which contains all the links for fast navigation and the list element which will hold the publications' details
     const header = document.getElementById("publications-header-collapsible");
     const list = document.getElementById("publications-list");
 
     for (let i = 0; i < publicationKeys.length; i++ ){
 
+        //Loop through the keys, i.e. the years
+
+        // Create a link for fast navigation to the year in question in the header, style and append
         const year = document.createElement("div");
         year.innerHTML = "<a href='#" + publicationKeys[i] + "'>" + publicationKeys[i] + "</a>";
         year.classList.add("ff-body","text-dark","year-link");
         header.appendChild(year);
 
+        // Create new div to hold all the publications of the year
         const publicationsYear = document.createElement("div");
         publicationsYear.classList.add("publications-year");
 
+        // add title of the year and append the div for publications, style it and add the right id so the fast navigation is possible
         const yearTitle = document.createElement("h2");
         yearTitle.innerHTML = publicationKeys[i]
         yearTitle.classList.add("ff-body","text-dark","fs-400");
