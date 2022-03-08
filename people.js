@@ -64,6 +64,13 @@ function addData(data) {
         newPersonEmail.innerHTML = "email: <a href = 'mailto:" + data[i].email +"' style = 'overflow-wrap: break-word;'>"+data[i].email + "</a>";
         newPersonDiv.appendChild(newPersonEmail);
 
+        if (data[i].CV) {
+            let newPersonCV = document.createElement("p");
+            newPersonCV.classList.add("text-dark","fs-300","ff-body");
+            newPersonCV.innerHTML = "<a href = './assets/people/CV/'" + data[i].CV + "' target='_blank'>CV</a>";
+            newPersonDiv.appendChild(newPersonCV);
+        }
+
         //Append metadata div and picture element to individual div of member
         newPerson.appendChild(newPersonPictureCont);
         newPerson.appendChild(newPersonDiv);

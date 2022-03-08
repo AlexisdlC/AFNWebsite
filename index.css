@@ -601,7 +601,7 @@ body{
 
 .people-image{
     aspect-ratio: 1;
-    width: 70vw;
+    width: 50vw;
 }
 
 .people-element{
@@ -628,7 +628,7 @@ body{
 
     .people-image{
         aspect-ratio: 1;
-        max-width: 40%;
+        max-width: 35%;
     }
 
     .people-meta{
@@ -650,9 +650,9 @@ body{
     }
 
     .people-image{
-        min-width: 50%;
+        min-width: 45%;
         aspect-ratio: 1;
-        width: 80%;
+        width: 50%;
     }
     
    
