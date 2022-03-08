@@ -1,42 +1,47 @@
 // Fetching json file containing all the information about the publications (articles and books)
 
-fetch("publications.json")
-    .then(function (response){
-        return response.json();
-    })
-    .then(function (data) {
-        addPublications(data);
-    })
-    .catch(function (err) {
-        console.log(err);
-    })
-
+function fetchPublications() {
+    fetch("publications.json")
+        .then(function (response){
+            return response.json();
+        })
+        .then(function (data) {
+            addPublications(data);
+        })
+        .catch(function (err) {
+            console.log(err);
+        })
+}
 
 // Fetching json file containing all the information about the theses
 
-fetch("theses.json")
-    .then(function (response){
-        return response.json();
-    })
-    .then(function (data) {
-        addTheses(data);
-    })
-    .catch(function (err) {
-        console.log(err);
-    })
+function fetchTheses() {
+    fetch("theses.json")
+        .then(function (response){
+            return response.json();
+        })
+        .then(function (data) {
+            addTheses(data);
+        })
+        .catch(function (err) {
+            console.log(err);
+        })
+}
 
 // Fetching json file containing all the information about patents
 
-fetch("patents.json")
-    .then(function (response){
-        return response.json();
-    })
-    .then(function (data) {
-        addPatents(data);
-    })
-    .catch(function (err) {
-        console.log(err);
-    })
+function fecthPatents() {
+    fetch("patents.json")
+        .then(function (response){
+            return response.json();
+        })
+        .then(function (data) {
+            addPatents(data);
+        })
+        .catch(function (err) {
+            console.log(err);
+        })
+}
 
 // Routine to add publications in html page
 
@@ -168,6 +173,11 @@ function addPatents (data) {
 
     }
 }
+
+
+fetchPublications();
+fetchTheses();
+fecthPatents();
 
 
 const years = document.querySelector(".years-list");
