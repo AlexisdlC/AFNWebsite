@@ -720,8 +720,17 @@ body{
 
 .location-addresses{
     grid-area: address;
-    text-align: justify;
+    text-align: left;
     padding-top: 1rem;
+    margin-left: 1rem;
+}
+
+.location-addresses > *{
+    padding-block: 1rem;
+}
+
+.location-addresses p:first-child{
+    border-bottom: 1px solid hsl( var(--clr-light) );
 }
 
 .location-map{
