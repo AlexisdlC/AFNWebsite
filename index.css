@@ -716,19 +716,18 @@ body{
     border-bottom: 1px solid hsl( var(--clr-light) );
 }
 
-.grid-container--location{
-    grid-template-columns: minmax(1rem,1fr) 30% minmax(1rem,1fr) 50% minmax(1rem,1fr);
-}
+
 
 .location-addresses{
-    grid-column: 2;
+    grid-area: address;
     text-align: justify;
+    padding-top: 1rem;
 }
 
 .location-map{
-    grid-column: 4;
+    grid-area: map;
     place-items: center;
-    width: 100%;
+    width: 80%;
  }
 
 .lab-map{
@@ -739,3 +738,20 @@ body{
 
 
 
+.grid-container--location{
+     grid-template-areas: 
+    "map"
+    "address";
+}
+
+
+@media (min-width: 50em){
+    .grid-container--location{
+        grid-template-columns: minmax(1rem,1fr) 30% minmax(1rem,1fr) 50% minmax(1rem,1fr);
+        grid-template-areas: ". address . map .";
+    }
+
+    .location-addresses{
+        align-self: start;
+    }
+}
