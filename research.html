@@ -16,22 +16,25 @@
         <title>Soft Condensed Matter Laboratory</title>
 
         <script src="navigation.js" defer></script>
+        <script src="publications.js?v=42" defer></script>
+        <script src="back-to-top.js" defer></script>
     </head>
 
-    <body class="home">
+    <body class="research">
 
         <a class="skip-to-content" href="#main">Skip to content</a>
+        <button hidden class="back-to-top"><span class="sr-only">Back to Top</span></button>
 
-        <header>
+        <header class="header-not-home">
             <div class="flex primary-header">
                 <span class="title fs-700 ff-header text-white">SCML</span>
                 <button class="mobile-nav-toggle" aria-controls="primary-navigation"><span class="sr-only" aria-expanded="false">Menu</span></button>
                 <nav>
-                    <ul id="primary-navigation" class="primary-navigation underline-indicators flex" data-visible="false">
-                        <li class="active"><a class="text-white fs-300 ff-header" href="index.html">Home</a>
+                    <ul id="primary-navigation" class="primary-navigation underline-indicators flex primary-navigation--not-home" data-visible="false">
+                        <li><a class="text-white fs-300 ff-header" href="index.html">Home</a>
                         <li><a class="text-white fs-300 ff-header" href="publications.html">Publications</a>
                         <li><a class="text-white fs-300 ff-header" href="people.html">People</a>
-                        <li><a class="text-white fs-300 ff-header" href="research.html">Research</a>
+                        <li class="active"><a class="text-white fs-300 ff-header" href="research.html">Research</a>
                         <li><a class="text-white fs-300 ff-header" href="location.html">Location</a>
                     </ul>
                 </nav>
@@ -41,25 +44,10 @@
             </div>
         </header>
 
-
-        <main id="main" class="grid-container grid-container--home">
-            <div class="ff-body fs-400 flex">
-                <p class="text-white">Our laboratory studies the physics of soft materials with a focus on the connection between microscopic order and macroscopic properties.
-                 The underlying theme is to pursue basic understanding and address fundamental questions. 
-                 However, we also address applied problems and pursue industrial collaborations since many of the materials we study can be viewed
-                  as model systems for those that are often used in applications.</p>
-                <div class="flex" style="--gap: 2rem">
-                    <a class="text-accent" href="http://fernandez-nieves.wikidot.com/" target="_blank">Lab Wiki</a>
-                    <a class="text-accent" href="#" target="_blank">Seminar</a>
-                    <a class="text-accent" href="https://fernandezlab.gatech.edu/index.html" target="_blank">Old Site</a>
-                </div>    
-            </div>
-
+        <main id="main">
+            <h1 class="ff-body fs-700 text-dark" style="margin: 2rem">In construction</h1>
         </main>
 
-
-
     </body>
-
 
 </html>

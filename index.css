@@ -526,10 +526,23 @@ body{
     background-color: hsl( var(--clr-white) );
 }
 
+/* publications */
+
 .publications{
     background-color: hsl( var(--clr-white) );
 }
 
+/* location */
+
+.location{
+    background-color: hsl( var(--clr-white) );
+}
+
+/* research */
+
+.research{
+    background-color: hsl( var(--clr-white) );
+}
 
 
 /* ------------------------------ */
@@ -694,3 +707,35 @@ body{
     padding-bottom: 0.5rem;
     border-bottom: hsl( var(--clr-light) ) 1px solid;
 }
+
+/* lab location */
+
+.location h1{
+    margin: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid hsl( var(--clr-light) );
+}
+
+.grid-container--location{
+    grid-template-columns: minmax(1rem,1fr) 30% minmax(1rem,1fr) 50% minmax(1rem,1fr);
+}
+
+.location-addresses{
+    grid-column: 2;
+    text-align: justify;
+}
+
+.location-map{
+    grid-column: 4;
+    place-items: center;
+    width: 100%;
+ }
+
+.lab-map{
+    width: 100%;
+    aspect-ratio: 1;
+    border: 2px solid hsl( var(--clr-dark) );
+}
+
+
+
