@@ -526,6 +526,12 @@ body{
     background-color: hsl( var(--clr-white) );
 }
 
+/* alumni */
+
+.alumni{
+    background-color: hsl( var(--clr-white) );
+}
+
 /* publications */
 
 .publications{
@@ -593,17 +599,39 @@ body{
 
 /* people */
 
-.people main h1{
-    margin-top: 2rem;
-    padding-bottom: 2rem;
-    border-bottom: 1px solid hsl( var(--clr-light) );
-    width: 80vw;
-}
-
 .people main{
     margin-inline: 2rem;
-    width: 85vw;
+    /* width: 85vw; */
+    padding-bottom: 4rem;
 }
+
+.people-header{
+    border-bottom: 1px solid hsl( var(--clr-light) );
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.people-header h1{
+    display: inline-block;
+    width: fit-content;
+    margin-right: 2rem;
+    padding-top: 1rem;
+}
+
+.people-header a{
+    display: inline-block;
+    margin-right: 2rem;
+    color: hsl( var(--clr-dark) / .25);
+    text-decoration: none;
+    padding-top: 1rem;
+}
+
+.people-header a:hover,
+.people-header a:focus{
+    color: hsl( var(--clr-dark) / .75);
+    border-bottom: 1px solid hsl( var(--clr-dark) / .75);
+}
+
 
 .flex--people{
     flex-direction: column;
@@ -669,6 +697,70 @@ body{
     }
     
    
+}
+
+/* alumni */
+
+.alumni main{
+    margin-inline: 2rem;
+    padding-bottom: 4rem;
+}
+
+#alumni-header{
+    display: none;
+}
+
+.alumni-list{
+    grid-template-columns: 90%;
+    gap: 2.5rem;
+    padding-inline: 1rem;
+    margin-top: 3rem;
+}
+
+.alumni-list-row{
+    grid-template-areas: 
+    "Name"
+    "Position"
+    "currentInstitution"
+    "currentPosition"
+    "email";
+}
+
+.alumni-subtitle{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+
+@media (min-width: 35em){
+    .alumni-list{
+        grid-template-columns: 45% 45%;
+        
+    }
+}
+
+@media (min-width: 50em){
+    .alumni-list{
+        grid-template-columns: 100%;
+        width: 100%;
+    }
+    
+    .alumni-list-row{
+        grid-template-columns: 18% 18% 18% 18% 20%;
+        grid-template-areas: "Name Position currentInstitution currentPosition email";
+        width: 95%;
+        border-bottom: 1px solid hsl( var(--clr-dark) / .25);
+        padding-bottom: 0.5rem;
+    
+    }
+
+    #alumni-header{
+        display: grid;
+    }
+
+    .alumni-subtitle{
+        display: none;
+    }
 }
 
 /* publications */

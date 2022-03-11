@@ -1,0 +1,426 @@
+[
+    {
+        "name": "Ahmed Soofi, Basil",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "Phillips 66",
+        "currentPosition": "Reliability Engineer",
+        "email": "basoofi@gmail.com"
+    },
+
+    {
+        "name": "Aizenman, Aaron",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "-",
+        "currentPosition": "-",
+        "email": "aizenman.aaron@gatech.edu"
+    },
+
+    {
+        "name": "Baxter, Devontae",
+        "groupPosition": "Undergraduate Student (REU)",
+        "currentInstitution": "UC Irvine",
+        "currentPosition": "Graduate Student",
+        "email": "dbaxter@gatech.edu"
+    },
+
+    {
+        "name": "Berger, Eric",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "PowerPlan Inc.",
+        "currentPosition": "Accounting Consultant",
+        "email": "eberger542@gmail.com"
+    },
+
+    {
+        "name": "Burtwistle, Sam",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "-",
+        "currentPosition": "-",
+        "email": "samanthaburtwistle@gmail.com"
+    },
+
+    {
+        "name": "Carlsen, Savannah",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "-",
+        "currentPosition": "-",
+        "email": "carlsen3@gatech.edu"
+    },
+
+    {
+        "name": "Chang, Ya-Wen",
+        "groupPosition": "Postdoctoral Fellow",
+        "currentInstitution": "Texas Tech University",
+        "currentPosition": "Assistant Professor",
+        "email": "ya-wen.chang@ttu.edu"
+    },
+
+    {
+        "name": "clara Rahola Joaquim",
+        "groupPosition": "Postdoctoral Fellow",
+        "currentInstitution": "University of Almeria",
+        "currentPosition": "Postdoctoral Fellow",
+        "email": "joaquim.clara-rahola@physics.gatech.edu"
+    },
+
+    {
+        "name": "Cuadrado, Jonas",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "Feedzai",
+        "currentPosition": "Data Scientist",
+        "email": "jonas.cuadrado@gmail.com"
+    },
+
+    {
+        "name": "Dannemiller, Edward",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "GA Tech",
+        "currentPosition": "Undergraduate Student",
+        "email": "edannemiller3@gmail.com"
+    },
+
+    {
+        "name": "de Castro, Elena",
+        "groupPosition": "Visiting Graduate Student",
+        "currentInstitution": "University of Sevilla (Spain)",
+        "currentPosition": "Assistant Professor",
+        "email": "elenacastro@us.es"
+    },
+
+    {
+        "name": "Devaiah, Sharan",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "University of Stuttgart (Germany)",
+        "currentPosition": "M.S. Student",
+        "email": "sharan@gatech.edu"
+    },
+
+    {
+        "name": "Douthit, Greg",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "GA Tech",
+        "currentPosition": "Undergraduate Student",
+        "email": "douthitjg@gmail.com"
+    },
+
+    {
+        "name": "Ellis, Perry",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "Harvard",
+        "currentPosition": "Postdoctoral Fellow",
+        "email": "pellis30@gatech.edu"
+    },
+
+    {
+        "name": "Faizi, Hammad",
+        "groupPosition": "Visiting Undergraduate Student",
+        "currentInstitution": "University of Hong Kong (Hong Kong)",
+        "currentPosition": "Undergraduate Student",
+        "email": "-"
+    },
+
+    {
+        "name": "Fan, Xiaochen",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "-",
+        "currentPosition": "-",
+        "email": "fanxiaochen@gatech.edu"
+    },
+
+    {
+        "name": "Fang, Benjamin",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "-",
+        "currentPosition": "-",
+        "email": "-"
+    },
+
+    {
+        "name": "Florea, Daniel",
+        "groupPosition": "Visiting Graduate Student",
+        "currentInstitution": "Eindhoven University of Technology (The Netherlands)",
+        "currentPosition": "Graduate Student",
+        "email": "d.florea@tue.nl"
+    },
+
+    {
+        "name": "Fragkopoulos, Alexandros",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "Max Planck Institute (G&oumlttingen, Germany)",
+        "currentPosition": "Postdoctoral Fellow",
+        "email": "afragkopoulos@gmail.com"
+    },
+
+    {
+        "name": "Frederick, Justin",
+        "groupPosition": "SURE Undergraduate Student",
+        "currentInstitution": "California State University, San Bernardino",
+        "currentPosition": "Graduate Student",
+        "email": "jafjaf1200@yahoo.com"
+    },
+
+    {
+        "name": "Gaines, Michelle",
+        "groupPosition": "Postdoctoral Fellow",
+        "currentInstitution": "Spelman College",
+        "currentPosition": "Assistant Professor",
+        "email": "mgaines@spelman.edu"
+    },
+
+    {
+        "name": "Gonzalez Loscertales, Ignacio",
+        "groupPosition": "Visiting Professor",
+        "currentInstitution": "University of Malaga (Spain)",
+        "currentPosition": "Professor",
+        "email": "loscertales@uma.es"
+    },
+
+    {
+        "name": "Grossman, Elan",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "GA Tech",
+        "currentPosition": "Undegraduate Student",
+        "email": "egrossman3@gatech.edu"
+    },
+
+    {
+        "name": "Guerrero-Millan, Josefa",
+        "groupPosition": "Postdoctoral Fellow",
+        "currentInstitution": "Georgia Regents University (Augusta)",
+        "currentPosition": "Assistant Professor",
+        "email": "jguerreromillan@augusta.edu"
+    },
+
+    {
+        "name": "Gundabala, Venkata R.",
+        "groupPosition": "Postdoctoral Fellow",
+        "currentInstitution": "Indian Institute of Technology (Bombay, India)",
+        "currentPosition": "Assistant Professor",
+        "email": "venkatgche.iitb.ac.in@che.iitb.ac.in"
+    },
+
+    {
+        "name": "Hijano, Antonio",
+        "groupPosition": "Visitor",
+        "currentInstitution": "University of Malaga (Spain)",
+        "currentPosition": "Graduate Student",
+        "email": "ajhijano@uma.es"
+    },
+
+    {
+        "name": "Hyatt, John",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "Army Research Lab, Aberdeen Proving Grounds",
+        "currentPosition": "Research Scientist",
+        "email": "john.shelton.hyatt@gmail.com"
+    },
+
+    {
+        "name": "Ibanez, Christina",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "UC3M (Spain)",
+        "currentPosition": "Undegraduate Student",
+        "email": "100329542@alumnos.uc3m.es"
+    },
+
+    {
+        "name": "Klane&#269ek (Doss), Susannah",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "GA Tech",
+        "currentPosition": "Undegraduate Student",
+        "email": "sdoss6@gatech.edu"
+    },
+
+    {
+        "name": "Koizumi, Runa",
+        "groupPosition": "Master's Student",
+        "currentInstitution": "Tokyo Institute of Technology (JApan)",
+        "currentPosition": "Graduate Student",
+        "email": "runa.koizumi@gmail.com"
+    },
+
+    {
+        "name": "Lallave, Manuel",
+        "groupPosition": "Visitor",
+        "currentInstitution": "YFlow SL (Spain)",
+        "currentPosition": "Head Process Engineer",
+        "email": "manuel.lallave@yflow.com"
+    },
+
+    {
+        "name": "Laporte Agosto, Yesenia",
+        "groupPosition": "SURE Undergraduate Student",
+        "currentInstitution": "Univeristy of Puerto Rico (Puerto Rico)",
+        "currentPosition": "Undegraduate Student",
+        "email": "yesenia.laporte@upr.edu"
+    },
+
+    {
+        "name": "Lietor-Santos, Juan-Jose",
+        "groupPosition": "Graduate Student, Postdoctoral Fellow",
+        "currentInstitution": "Georgia Southern University",
+        "currentPosition": "Temporary Assistant Professor",
+        "email": "jjlietors@gatech.edu"
+    },
+
+    {
+        "name": "Liu, Wei",
+        "groupPosition": "Visiting Professor",
+        "currentInstitution": "Shandong Univeristy of Technology (China)",
+        "currentPosition": "Professor",
+        "email": "wei.liu54@gmail.com"
+    },
+
+    {
+        "name": "Lobato, Miguel Angel",
+        "groupPosition": "Visiting Graduate Student",
+        "currentInstitution": "Univeristy of Malaga",
+        "currentPosition": "Graduate Student",
+        "email": "mlobato@uma.es"
+    },
+
+    {
+        "name": "Lopez-Leon, Teresa",
+        "groupPosition": "Postdoctoral Fellow",
+        "currentInstitution": "ESPCI Paris Tech (France)",
+        "currentPosition": "CNRS Researcher",
+        "email": "teresa.lopez-leon@espci.fr"
+    },
+
+    {
+        "name": "Markou, George",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "GA Tech",
+        "currentPosition": "Undegraduate Student",
+        "email": "gmarkou@gatech.edu"
+    },
+
+    {
+        "name": "Martinez Escobar, Sergio",
+        "groupPosition": "Visiting Scientist",
+        "currentInstitution": "Torrecardenas Hospital (Spain)",
+        "currentPosition": "Intensive Care Specialist",
+        "email": "sergiomartinezescobar@gmail.com"
+    },
+
+    {
+        "name": "Mohan, Kevin",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "American Software",
+        "currentPosition": "Software Engineer",
+        "email": "kevinmohan@yahoo.com"
+    },
+
+    {
+        "name": "Padilla, Pablo",
+        "groupPosition": "High School Student",
+        "currentInstitution": "-",
+        "currentPosition": "-",
+        "email": "-"
+    },
+
+    {
+        "name": "Pairam, Ekapop",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "King Mongkut's Institute of Technology Ladkrabang (Thailand)",
+        "currentPosition": "Faculty of Engineering",
+        "email": "dr.ekapop@gmail.com"
+    },
+
+    {
+        "name": "Pelaez, Miguel",
+        "groupPosition": "Postdoctoral Fellow",
+        "currentInstitution": "Randstad USA",
+        "currentPosition": "Data Analyst",
+        "email": "miguel.pelaez-fernandez@randstadusa.com"
+    },
+
+    {
+        "name": "Popp, Lauren",
+        "groupPosition": "SURE Undergraduate Student",
+        "currentInstitution": "Rice University",
+        "currentPosition": "Graduate Student",
+        "email": "lbk3@rice.edu"
+    },
+
+    {
+        "name": "Rodriguez, Javier",
+        "groupPosition": "Visiting Undergraduate Student",
+        "currentInstitution": "University of Sevilla (Spain)",
+        "currentPosition": "Graduate Student",
+        "email": "jrr3@physics.gatech.edu"
+    },
+
+    {
+        "name": "Romeo, Giovanni",
+        "groupPosition": "Visiting Graduate Student",
+        "currentInstitution": "University of Napoli Federico II (Italy)",
+        "currentPosition": "Research Assistant",
+        "email": "giovanni.romeo2@unina.it"
+    },
+
+    {
+        "name": "Scotti, Andrea",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "-",
+        "currentPosition": "Postdoctoral Fellow",
+        "email": "adreas6.scotti@gmail.com"
+    },
+
+    {
+        "name": "Sierra Martin, Benjamin",
+        "groupPosition": "Postdoctoral Fellow",
+        "currentInstitution": "University of Almeria (Spain)",
+        "currentPosition": "Juan de la Cierva Fellow",
+        "email": "bsierra@ual.es"
+    },
+
+    {
+        "name": "Starcevic, Samuel",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "GA Tech",
+        "currentPosition": "Undegraduate Student",
+        "email": "sstarcevic3@gatech.edu"
+    },
+
+    {
+        "name": "Tarr, Alex",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "GA Tech",
+        "currentPosition": "Undegraduate Student",
+        "email": "atarr3@gatech.edu"
+    },
+
+    {
+        "name": "Urquidi, Julio",
+        "groupPosition": "SURE Undergraduate Student",
+        "currentInstitution": "University of TExas, San Antonio",
+        "currentPosition": "Undegraduate Student",
+        "email": "azq785@my.utsa.edu"
+    },
+
+    {
+        "name": "Vallamkondu, Jayalakshmi",
+        "groupPosition": "Postdoctoral Fellow",
+        "currentInstitution": "National Institute of Technology (Warangal, India)",
+        "currentPosition": "Assistant Professor",
+        "email": "vlakshmij@gmail.com"
+    },
+
+    {
+        "name": "Vernon, Mark",
+        "groupPosition": "Undergraduate Student",
+        "currentInstitution": "GA Tech",
+        "currentPosition": "Researcher",
+        "email": "mvernon@physics.gatech.edu"
+    },
+
+    {
+        "name": "Vilanova, Neus",
+        "groupPosition": "Visiting Graduate Student",
+        "currentInstitution": "CSIC (Spain)",
+        "currentPosition": "Postdoctoral Fellow",
+        "email": "nvgqci@cid.csic.es"
+    }
+
+]

@@ -60,7 +60,7 @@ function addData(data) {
 
         let newPersonEmail = document.createElement("p");
         newPersonEmail.classList.add("text-dark","fs-300","ff-body");
-        newPersonEmail.style.overflowWrap = "break-word"
+        newPersonEmail.style.overflowWrap = "break-word";
         newPersonEmail.innerHTML = "email: <a href = 'mailto:" + data[i].email +"' style = 'overflow-wrap: break-word;'>"+data[i].email + "</a>";
         newPersonDiv.appendChild(newPersonEmail);
 

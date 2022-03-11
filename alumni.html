@@ -16,12 +16,14 @@
         <title>Soft Condensed Matter Laboratory</title>
 
         <script src="navigation.js" defer></script>
-        <script src="people.js?v=42" defer></script>
+        <script src="alumni.js?v=42" defer></script>
+        <script src="back-to-top.js" defer></script>
     </head>
 
-    <body class="people">
+    <body class="alumni">
 
         <a class="skip-to-content" href="#main">Skip to content</a>
+        <button hidden class="back-to-top"><span class="sr-only">Back to Top</span></button>
 
         <header class="header-not-home">
             <div class="flex primary-header">
@@ -45,14 +47,21 @@
         <main id="main">
 
             <div class="people-header">
-                <h1 class="text-dark ff-body fs-700">Current Group Members</h1>
-                <a class="text-dark ff-body fs-700" href="alumni.html">Alumni</a>
+                <a class="text-dark ff-body fs-700" href="people.html">Current Group Members</a>
+                <h1 class="text-dark ff-body fs-700">Alumni</h1>
             </div>
 
-            <div id="group-members" class="flex--people flex"></div>
+            <div class="alumni-list grid" id="alumni-list">
+                <div class="grid text-dark ff-body fs-400 alumni-list-row" id="alumni-header">
+                    <p style="grid-area: Name;">Name</p>
+                    <p style="grid-area: Position;">Position</p>
+                    <p style="grid-area: currentInstitution;">Current Institution</p>
+                    <p style="grid-area: currentPosition;">Current Position</p>
+                    <p style="grid-area: email;">email</p>
+                </div>
 
+            </div>
 
         </main>
-
     </body>
 </html>
