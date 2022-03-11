@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Gonzalez Loscertales, Ignacio",
+        "groupPosition": "Visiting Professor",
+        "currentInstitution": "University of Malaga (Spain)",
+        "currentPosition": "Professor",
+        "email": "loscertales@uma.es"
+    },
+
+    {
+        "name": "Hijano, Antonio",
+        "groupPosition": "Visitor",
+        "currentInstitution": "University of Malaga (Spain)",
+        "currentPosition": "Graduate Student",
+        "email": "ajhijano@uma.es"
+    },
+
+    {
+        "name": "Lallave, Manuel",
+        "groupPosition": "Visitor",
+        "currentInstitution": "YFlow SL (Spain)",
+        "currentPosition": "Head Process Engineer",
+        "email": "manuel.lallave@yflow.com"
+    },
+
+    {
+        "name": "Liu, Wei",
+        "groupPosition": "Visiting Professor",
+        "currentInstitution": "Shandong Univeristy of Technology (China)",
+        "currentPosition": "Professor",
+        "email": "wei.liu54@gmail.com"
+    },
+
+    {
+        "name": "Martinez Escobar, Sergio",
+        "groupPosition": "Visiting Scientist",
+        "currentInstitution": "Torrecardenas Hospital (Spain)",
+        "currentPosition": "Intensive Care Specialist",
+        "email": "sergiomartinezescobar@gmail.com"
+    }
+]

@@ -706,15 +706,36 @@ body{
     padding-bottom: 4rem;
 }
 
+.alumni-header-main{
+    flex-wrap: wrap;
+    justify-content: left;
+    margin-top: 1rem;
+}
+
+.alumni-link a{
+    text-decoration: none;
+    cursor: pointer;
+    color:hsl( var(--clr-dark)  );
+}
+
+.alumni-link a:hover,
+.alumni-link a:focus{
+    border-bottom: 1px solid hsl( var(--clr-dark) );
+}
+
 #alumni-header{
     display: none;
+}
+
+#alumni-list{
+    margin-top: 2rem
 }
 
 .alumni-list{
     grid-template-columns: 90%;
     gap: 2.5rem;
     padding-inline: 1rem;
-    margin-top: 3rem;
+    margin-block: 2rem;
 }
 
 .alumni-list-row{

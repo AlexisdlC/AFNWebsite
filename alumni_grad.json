@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Burtwistle, Sam",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "-",
+        "currentPosition": "-",
+        "email": "samanthaburtwistle@gmail.com"
+    },
+
+    {
+        "name": "Cuadrado, Jonas",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "Feedzai",
+        "currentPosition": "Data Scientist",
+        "email": "jonas.cuadrado@gmail.com"
+    },
+
+    {
+        "name": "Ellis, Perry",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "Harvard",
+        "currentPosition": "Postdoctoral Fellow",
+        "email": "pellis30@gatech.edu"
+    },
+
+    {
+        "name": "Florea, Daniel",
+        "groupPosition": "Visiting Graduate Student",
+        "currentInstitution": "Eindhoven University of Technology (The Netherlands)",
+        "currentPosition": "Graduate Student",
+        "email": "d.florea@tue.nl"
+    },
+
+    {
+        "name": "Fragkopoulos, Alexandros",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "Max Planck Institute (G&oumlttingen, Germany)",
+        "currentPosition": "Postdoctoral Fellow",
+        "email": "afragkopoulos@gmail.com"
+    },
+
+    {
+        "name": "Hyatt, John",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "Army Research Lab, Aberdeen Proving Grounds",
+        "currentPosition": "Research Scientist",
+        "email": "john.shelton.hyatt@gmail.com"
+    },
+
+    {
+        "name": "Koizumi, Runa",
+        "groupPosition": "Master's Student",
+        "currentInstitution": "Tokyo Institute of Technology (JApan)",
+        "currentPosition": "Graduate Student",
+        "email": "runa.koizumi@gmail.com"
+    },
+
+    {
+        "name": "Lietor-Santos, Juan-Jose",
+        "groupPosition": "Graduate Student, Postdoctoral Fellow",
+        "currentInstitution": "Georgia Southern University",
+        "currentPosition": "Temporary Assistant Professor",
+        "email": "jjlietors@gatech.edu"
+    },
+
+    {
+        "name": "Lobato, Miguel Angel",
+        "groupPosition": "Visiting Graduate Student",
+        "currentInstitution": "Univeristy of Malaga",
+        "currentPosition": "Graduate Student",
+        "email": "mlobato@uma.es"
+    },
+
+    {
+        "name": "Pairam, Ekapop",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "King Mongkut's Institute of Technology Ladkrabang (Thailand)",
+        "currentPosition": "Faculty of Engineering",
+        "email": "dr.ekapop@gmail.com"
+    },
+
+    {
+        "name": "Romeo, Giovanni",
+        "groupPosition": "Visiting Graduate Student",
+        "currentInstitution": "University of Napoli Federico II (Italy)",
+        "currentPosition": "Research Assistant",
+        "email": "giovanni.romeo2@unina.it"
+    },
+
+    {
+        "name": "Scotti, Andrea",
+        "groupPosition": "Graduate Student",
+        "currentInstitution": "-",
+        "currentPosition": "Postdoctoral Fellow",
+        "email": "adreas6.scotti@gmail.com"
+    },
+
+    {
+        "name": "Vilanova, Neus",
+        "groupPosition": "Visiting Graduate Student",
+        "currentInstitution": "CSIC (Spain)",
+        "currentPosition": "Postdoctoral Fellow",
+        "email": "nvgqci@cid.csic.es"
+    }
+]
