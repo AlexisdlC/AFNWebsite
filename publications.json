@@ -33,11 +33,13 @@
         {
             "type": "article",
             "authors": "C. P. E. Breard, J. Dufek, L. Fullard, M. Tennenbaum, A. Fernandez-Nieves, J-F. Dietiker",
-            "title": "Investigating the rheology of fluidized and non-fluidized beds – implications for geophysical flows with excess pore pressure",
+            "title": "Investigating the rheology of fluidized and non-fluidized beds implications for geophysical flows with excess pore pressure",
             "journal": "Granular Matter",
             "volume": "24",
             "page": "34",
-            "link": "https://link.springer.com/article/10.1007/s10035-021-01192-5"
+            "link": "https://link.springer.com/article/10.1007/s10035-021-01192-5",
+            "extra": "Cover of Granular Matter - February 2022",
+            "extraImg": "GranularMatterCoverFeb2022.png"
         }
 
     ],
@@ -264,7 +266,9 @@
             "journal": "Polymer Chemistry",
             "volume": "9",
             "page": "5268",
-            "link": "https://pubs.rsc.org/en/content/articlelanding/2018/py/c8py01146j/unauth"
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2018/py/c8py01146j/unauth",
+            "extra": "Cover of Polymer Chemistry - November 2018",
+            "extraImg": "PolymerChemistryNov2018.jpg"
         },
 
         {
@@ -463,7 +467,9 @@
             "journal": "Physical Review E",
             "volume": "94",
             "page": "012703",
-            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.012703"
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.012703",
+            "extra": "Featured in PRE Kaleidoscope - July 2016",
+            "extraImg": "PREJuly2016.png" 
         },
 
         {
@@ -683,7 +689,9 @@
             "journal": "Journal of Physics D: Applied Physics",
             "volume": "46",
             "page": "114006",
-            "link": "https://iopscience.iop.org/article/10.1088/0022-3727/46/11/114006"
+            "link": "https://iopscience.iop.org/article/10.1088/0022-3727/46/11/114006",
+            "extra": "Cover of Journal of Physics D: Applied Physics - March 2013",
+            "extraImg": "JournalofPhysicsDMar2013.jpg"
         }
 
     ],
@@ -697,7 +705,9 @@
             "journal": "Physical Review E",
             "volume": "86",
             "page": "030702(R)",
-            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.86.030702"
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.86.030702",
+            "extra":"Featured in PRE Kaleidoscope - Septembre 2012",
+            "extraImg": "PRESep2012.png"
         },
 
         {
@@ -820,7 +830,8 @@
             "journal": "Applied Physics Letters",
             "volume": "99",
             "page": "021910",
-            "link": "https://aip.scitation.org/doi/abs/10.1063/1.3610949"
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.3610949",
+            "extra": "Selected for publication in \"Virtual J Nanoscale Sci and Tech\" - August 2011"
         },
 
         {
@@ -830,7 +841,8 @@
             "journal": "Soft Matter",
             "volume": "7",
             "page": "6370",
-            "link": "https://pubs.rsc.org/en/content/articlelanding/2011/sm/c1sm05328k"
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2011/sm/c1sm05328k",
+            "extra": "Selected as \"Hot Article\" in Soft Matter Blog"
         },
 
         {
@@ -840,7 +852,8 @@
             "journal": "Physical Review Letters",
             "volume": "106",
             "page": "247802",
-            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.247802"
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.247802",
+            "extra": "Highlighted in \"Soft Matter World\""
         },
 
         {
@@ -969,7 +982,9 @@
             "journal": "Macromolecular Rapid Communications",
             "volume": "31",
             "page": "183",
-            "link": "https://onlinelibrary.wiley.com/doi/10.1002/marc.200900534"
+            "link": "https://onlinelibrary.wiley.com/doi/10.1002/marc.200900534",
+            "extra": "Cover of Macromolecular Rapid Communications - January 2010",
+            "extraImg": "MacromolecularRapidCommunicationsJan2010.jpg"
         }
     ],
 
@@ -1062,7 +1077,9 @@
             "journal": "Physical Review E",
             "volume": "79",
             "page": "021707",
-            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.79.021707"
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.79.021707",
+            "extra": "Featured in PRE Kaleidoscope -February 2009",
+            "extraImg": "PREFeb2009.jpg"
         },
 
         {
@@ -1125,7 +1142,9 @@
             "journal": "Materials Today",
             "volume": "11",
             "page": "18",
-            "link": "https://www.sciencedirect.com/science/article/pii/S1369702108700531"
+            "link": "https://www.sciencedirect.com/science/article/pii/S1369702108700531",
+            "extra": "Cover of Materials Today - April 2008",
+            "extraImg": "MaterialsTodayApr2008.png"
         },
 
         {
@@ -1168,7 +1187,9 @@
             "journal": "MRS Bulletin",
             "volume": "32",
             "page": "702",
-            "link": "https://www.cambridge.org/core/journals/mrs-bulletin/article/abs/dripping-jetting-drops-and-wetting-the-magic-of-microfluidics/F9EF70D1506F4B6EED01F2917F04F0E8"
+            "link": "https://www.cambridge.org/core/journals/mrs-bulletin/article/abs/dripping-jetting-drops-and-wetting-the-magic-of-microfluidics/F9EF70D1506F4B6EED01F2917F04F0E8",
+            "extra": "Cover of MRS Bulletin - September 2007",
+            "extraImg": "MRSBulletinSep2007.jpg"
         },
 
         {
@@ -1188,7 +1209,9 @@
             "journal": "Physical Review Letters",
             "volume": "99",
             "page": "157801",
-            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.157801"
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.157801",
+            "extra": "Cover of Physical Review Letters - October 2007",
+            "extraImg": "PRLOct2007.jpg"
         },
 
         {
@@ -1218,7 +1241,8 @@
             "journal": "Physical Review Letters",
             "volume": "98",
             "page": "087801",
-            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.087801"
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.087801",
+            "extra": "Selected for publication in \"Virtual J Nanoscale Sci and Tech\" - March 2007"
         },
 
         {
@@ -1281,7 +1305,8 @@
             "journal": "Physical Review E",
             "volume": "74",
             "page": "051404",
-            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.74.051404"
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.74.051404",
+            "extra": "Selected for publication in \"Virtual J Nanoscale Sci and Tech\" - November 2006"
         },
 
         {
@@ -1334,7 +1359,8 @@
             "journal": "Physical Review E",
             "volume": "71",
             "page": "042401",
-            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.042401"
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.71.042401",
+            "extra": "Selected for publication in \"Virtual J Biological Phys\" - 2005"
         },
 
         {
@@ -1367,7 +1393,9 @@
             "journal": "Physical Review Letters",
             "volume": "92",
             "page": "105503",
-            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.92.105503"
+            "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.92.105503",
+            "extra": "Cover of Physical Review Letters - March 2004",
+            "extraImg": "PRLMar2004.jpg"
         },
 
         {
@@ -1400,7 +1428,8 @@
             "journal": "Journal of Chemical Physics",
             "volume": "119",
             "page": "10383",
-            "link": "https://aip.scitation.org/doi/abs/10.1063/1.1618734"
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.1618734",
+            "extra": "Selected for publication in \"Virtual J Nanoscale Sci and Tech\" - November 2003"
         },
 
         {
@@ -1410,7 +1439,9 @@
             "journal": "Applied Physics Letters",
             "volume": "82",
             "page": "2610",
-            "link": "https://aip.scitation.org/doi/abs/10.1063/1.1568818"
+            "link": "https://aip.scitation.org/doi/abs/10.1063/1.1568818",
+            "extra": "Cover of Applied Physics Letters - April 2003. Highlighted in Science (300, 867 (2003))",
+            "extraImg": "AppliedPhysicsLetterApr2003.jpg"
         }
     ],
 
@@ -1423,7 +1454,8 @@
             "journal": "Physical Review E",
             "volume": "65",
             "page": "036143",
-            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.65.036143"
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.65.036143",
+            "extra": "Selected for publication in \"Virtual J Nanoscale Sci and Tech\" - March 2002"
         },
 
         {
@@ -1532,7 +1564,8 @@
             "journal": "European Journal of Physics",
             "volume": "19",
             "page": "425",
-            "link": "https://iopscience.iop.org/article/10.1088/0143-0807/19/5/003"
+            "link": "https://iopscience.iop.org/article/10.1088/0143-0807/19/5/003",
+            "extra": "Paper selected as \"Feature Article\" of the journal"
         }
     ]
 }

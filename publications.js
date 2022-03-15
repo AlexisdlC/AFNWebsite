@@ -83,8 +83,12 @@ function addPublications (data) {
             //Loop through elements of the year to append them to the list of publications of the year
 
             // Create paragraph element to contain the new publication element and style it
+            const newPubDiv = document.createElement("div");
+            newPubDiv.classList.add("publications-element");
+
             const newPub = document.createElement("p");
-            newPub.classList.add("ff-body","text-dark","fs-300","publications-element")
+            newPub.classList.add("ff-body","text-dark","fs-300");
+            newPubDiv.appendChild(newPub);
 
             if (data[publicationKeys[i]][j].type === "article"){
                 // First conditional to check if the added publication is a research article, and fill the inner html of the paragraph accordingly
@@ -109,9 +113,31 @@ function addPublications (data) {
                                     "Editors: " + data[publicationKeys[i]][j].editors + 
                                     " (" + data[publicationKeys[i]][j].publisher + ", " + publicationKeys[i] + ").";
             }
-            // Append new pubplication element to the list for the year
-            publicationsYear.appendChild(newPub)
 
+                        // Append new pubplication element to the list for the year
+            publicationsYear.appendChild(newPubDiv)
+
+            if (data[publicationKeys[i]][j].extra){
+                const extraDiv = document.createElement("div");
+                extraDiv.classList.add("publications-extra-hover");
+                newPubDiv.appendChild(extraDiv);
+
+                const extra = document.createElement("p");
+                extra.classList.add("ff-body","text-dark","fs-300","publication-extra");
+                extra.style.fontWeight = "bold";
+                extra.innerHTML = data[publicationKeys[i]][j].extra;
+                extraDiv.appendChild(extra);
+
+                if (data[publicationKeys[i]][j].extraImg){
+
+                    const imageDiv = document.createElement("div");
+                    imageDiv.classList.add("image-extra");
+                    const image = document.createElement("img");
+                    image.src = './assets/publications/' + data[publicationKeys[i]][j].extraImg;
+                    imageDiv.appendChild(image);
+                    extraDiv.appendChild(imageDiv);
+                }
+            }
         }
     }
 }

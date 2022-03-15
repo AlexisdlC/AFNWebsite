@@ -810,7 +810,7 @@ body{
     margin-top: 1rem;
 }
 
-.publications-year p:last-of-type{
+.publications-year div:last-of-type{
     border: none;
 }
 
@@ -819,6 +819,26 @@ body{
     margin-top: 0.75rem;
     padding-bottom: 0.5rem;
     border-bottom: hsl( var(--clr-light) ) 1px solid;
+}
+
+
+.publications-extra-hover .image-extra{
+    display: none;
+}
+
+
+.publications-extra-hover:hover .image-extra{
+    display: block;
+    position: relative;
+    width: 50%;
+    max-width: 250px;
+    border: black 3px solid;
+    padding: 0.5rem;
+    margin: 0.5rem auto;
+}
+
+.publications-extra-hover:hover .image-extra img{
+    margin: 0 auto;
 }
 
 /* lab location */
