@@ -52,7 +52,7 @@ function addPublications (data) {
 
     // Get the header element, which contains all the links for fast navigation and the list element which will hold the publications' details
     const header = document.getElementById("publications-header-collapsible");
-    const list = document.getElementById("publications-list");
+    const list = document.getElementById("publications-list--pub");
 
     for (let i = 0; i < publicationKeys.length; i++ ){
 
@@ -147,7 +147,7 @@ function addPublications (data) {
 function addTheses (data) {
     // Get the header element, which contains all the links for fast navigation and the list element which will hold the publications' details
     const header = document.getElementById("publications-header-collapsible");
-    const list = document.getElementById("publications-list");
+    const list = document.getElementById("publications-list--theses");
 
     // Create, style and append theses link to header with publication years
     const link = document.createElement("div");
@@ -189,7 +189,7 @@ function addTheses (data) {
 function addPatents (data) {
     // Get the header element, which contains all the links for fast navigation and the list element which will hold the publications' details
     const header = document.getElementById("publications-header-collapsible");
-    const list = document.getElementById("publications-list");
+    const list = document.getElementById("publications-list--patents");
 
     // Create, style and append patents link to header with publication years
     const link = document.createElement("div");
