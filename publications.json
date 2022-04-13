@@ -2,6 +2,16 @@
     "2022": [
 
         {
+            "type": "article",
+            "authors": "J. Houston, L. Fruhner, A. de la Cotte, J. Rojo-Gonz&aacutelez, A Petrunin, U. Gasser, R. Schweins, J. Allgaier, W. Richtering, A. Fernandez-Nieves, A. Scotti",
+            "title": "Resolving the different bulk moduli within individual soft nanogels using small-angle neutron scattering",
+            "journal": "Science Advances",
+            "volume": "-",
+            "page": "accepted",
+            "link": "#"
+        },
+
+        {
             "type": "Book Chapter",
             "authors": "A. Scotti, U. Gasser, B. Zhou, A. Arenas-Gullo, A. de la Cotte, J. Rojo, A. Fernandez-Nieves",
             "chaptertitle": "Compressible microgels in concentrated suspensions: phase behavior, flow properties and scattering techniques to probe their structure and dynamics",
