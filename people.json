@@ -4,8 +4,16 @@
         "Position": "ICREA Professor",
         "Office": "306",
         "email": "a.fernandeznieves@ub.edu",
-        "picture": "male-placeholder-image.jpeg",
+        "picture": "albertoFernandezNieves.jpeg",
         "CV": "cv-alberto-fernandez-nieves.pdf"
+    },
+
+    {
+        "Name": "Ramon Planet Latorre",
+        "Position": "Assistant Professor (Lector)",
+        "Office": "626",
+        "email": "rplanet@ub.edu",
+        "picture": "ramonPlanet.jpeg"
     },
 
     {
@@ -13,7 +21,7 @@
         "Position": "Postdoctoral Fellow",
         "Office": "V316",
         "email": "caleb91.13@gmail.com",
-        "picture": "male-placeholder-image.jpeg"
+        "picture": "calebAnderson.jpeg"
     },
 
     {
@@ -21,7 +29,7 @@
         "Position": "Graduate Student",
         "Office": "V316",
         "email": "j.rojo@ub.edu",
-        "picture": "male-placeholder-image.jpeg"
+        "picture": "javierRojoGonzalez.jpeg"
     },
 
     {
@@ -29,7 +37,7 @@
         "Position": "Postdoctoral Fellow",
         "Office": "302",
         "email": "adelacotte@ub.edu",
-        "picture": "male-placeholder-image.jpeg"
+        "picture": "alexisdelaCotte.jpeg"
     },
 
     {
@@ -37,7 +45,7 @@
         "Position": "Graduate Student",
         "Office": "302",
         "email": "adrianarenasgullo@gmail.com",
-        "picture": "male-placeholder-image.jpeg"
+        "picture": "adrianArenasGullo.jpeg"
     },
 
     {
@@ -45,7 +53,7 @@
         "Position": "Graduate Student",
         "Office": "GA Tech",
         "email": "jnambisan3@gatech.edu",
-        "picture": "male-placeholder-image.jpeg"
+        "picture": "jyothishrajNambisan.jpeg"
     },
 
     {
@@ -53,6 +61,14 @@
         "Position": "Graduate Student <br> <span style='font-size: 0.85em'>(Co-advised with Dr. Urs Gasser)</span>",
         "Office": "PSI",
         "email": "boyang.zhou@psi.ch",
-        "picture": "male-placeholder-image.jpeg"
+        "picture": "boyangZhou.png"
+    },
+
+    {
+        "Name": "Iker Zamorano Vega",
+        "Position": "Master Student",
+        "Office": "-",
+        "email": "izamorve7@alumnes.ub.edu",
+        "picture": "ikerZamoranoVega.jpeg"
     }
 ]
