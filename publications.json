@@ -1,5 +1,34 @@
 {
     "2022": [
+        {
+            "type": "article",
+            "authors": "C. J. Anderson, A. Fernandez-Nieves",
+            "title": "Social Interactions Lead to Motility-Induced Phase Separation in Fire Ants",
+            "journal": "Nature Communications",
+            "volume": "-",
+            "page": "accepted",
+            "link": "#"
+        },
+
+        {
+            "type": "article",
+            "authors": "C. J. Anderson, P. A. Gibson, A. Fernandez-Nieves",
+            "title": "Janssen effect in columns of fire ants",
+            "journal": "Physical Review E",
+            "volume": "106",
+            "page": "L012604",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.L012604"
+        },
+        
+        {
+            "type": "article",
+            "authors": "A. Arenas-Gullo, F. Mart&iacutenez-Manzano, A. Fernandez-Nieves",
+            "title": "Vortex flow, a couple important theorems, and an introduction to distributions",
+            "journal": "European Journal of Physics",
+            "volume": "43",
+            "page": "065802",
+            "link": "https://iopscience.iop.org/article/10.1088/1361-6404/ac8706"
+        },
 
         {
             "type": "article",
