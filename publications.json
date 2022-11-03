@@ -176,7 +176,9 @@
             "journal": "Soft Matter",
             "volume": "16",
             "page": "6725",
-            "link": "https://pubs.rsc.org/en/content/articlelanding/2020/sm/d0sm00384k"
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2020/sm/d0sm00384k",
+            "extra": "Cover of Soft Matter - August 2020",
+            "extraImg": "SoftMatterCoverAug2020.png"
         },
 
         {
@@ -227,7 +229,7 @@
         {
             "type": "article",
             "authors": "J. Guerrero, A. J. Hijano, M. A. Lobato, F. J. Higuera, I. G. Loscertales, A. Fernandez-Nieves",
-            "title": "Polypropylene Carbonate-Based Adaptive Buffer Layer for Stable Interfaces of Solid Polymer Lithium Metal Batteries",
+            "title": "Emission modes in electro co-flow",
             "journal": "Physics of Fluids",
             "volume": "31",
             "page": "082009",
