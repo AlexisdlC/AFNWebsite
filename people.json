@@ -49,6 +49,14 @@
     },
 
     {
+        "Name": "Baptiste Blanc",
+        "Position": "Postdoctoral Fellow",
+        "Office": "V316",
+        "email": "bblanc@mit.edu",
+        "picture": "baptisteBlanc.jpg"
+    },
+
+    {
         "Name": "Jyothishraj Nambisan",
         "Position": "Graduate Student",
         "Office": "GA Tech",
@@ -62,6 +70,14 @@
         "Office": "PSI",
         "email": "boyang.zhou@psi.ch",
         "picture": "boyangZhou.png"
+    },
+
+    {
+        "Name": "Mohammad Akhtar",
+        "Position": "Graduate Student <br> <span style='font-size: 0.85em'>(Co-advised with Dr. Urs Gasser)</span>",
+        "Office": "PSI",
+        "email": "makhtar@student.ethz.ch",
+        "picture": "mohammadAkhtar.jpeg"
     },
 
     {
