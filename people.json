@@ -50,7 +50,7 @@
 
     {
         "Name": "Baptiste Blanc",
-        "Position": "Postdoctoral Fellow",
+        "Position": "Postdoctoral Fellow <br> <span style='font-size: 0.85em'>(Maria Zambrano)</span>",
         "Office": "V316",
         "email": "bblanc@mit.edu",
         "picture": "baptisteBlanc.jpg"
@@ -76,7 +76,7 @@
         "Name": "Mohammad Akhtar",
         "Position": "Graduate Student <br> <span style='font-size: 0.85em'>(Co-advised with Dr. Urs Gasser)</span>",
         "Office": "PSI",
-        "email": "makhtar@student.ethz.ch",
+        "email": "mohammad.akhtar@psi.ch",
         "picture": "mohammadAkhtar.jpeg"
     },
 

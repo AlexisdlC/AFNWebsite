@@ -1,5 +1,50 @@
 {
+    "2023": [
+
+        {
+            "type": "article",
+            "authors": "M. Patel, S. Shimizu, M. Bates, A. Fernandez-Nieves, S. Guldin",
+            "title": "Long term phase separation dynamics in liquid crystal-enriched microdroplets obtained from binary fluid mixtures",
+            "journal": "Soft Matter",
+            "volume": "-",
+            "page": "accepted",
+            "link": "https://pubs.rsc.org/en/content/articlelanding/2023/sm/d2sm01348g"
+        },
+
+        {
+            "type": "article",
+            "authors": "C. J. Anderson, G. Goldsztein, A. Fernandez-Nieves",
+            "title": "Ant Waves – Spontaneous activity waves in fire-ant columns",
+            "journal": "Science Advances",
+            "volume": "-",
+            "page": "accepted",
+            "link": "#"
+        }
+
+    ],
+
     "2022": [
+               
+        {
+            "type": "article",
+            "authors": "C. J. Anderson, G. Briand, O. Dauchot, A. Fernandez-Nieves",
+            "title": "Polymer-chain configurations in active and passive baths",
+            "journal": "Physical Review E",
+            "volume": "106",
+            "page": "064606",
+            "link": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.064606"
+        },
+
+        {
+            "type": "article",
+            "authors": "Y.-W. Chang, R. Cruz-Acuna, M. Tennebaum, A. Fragkopoulos, A. Garcia, A. Fernandez-Nieves",
+            "title": "Quantifying Epithelial Cell Proliferation on Curved Surfaces",
+            "journal": "Frontiers in Physics, section Soft Matter Physics",
+            "volume": "10",
+            "page": "1055393",
+            "link": "https://www.frontiersin.org/articles/10.3389/fphy.2022.1055393/abstract"
+        },
+
         {
             "type": "article",
             "authors": "C. J. Anderson, A. Fernandez-Nieves",
