@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png"> -->
+        <!-- Google fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+        <!-- Our custom CSS -->
+        <link rel="stylesheet" href="../index.css">
+        
+        <title>Soft Condensed Matter Laboratory</title>
+
+        <script src="../navigation.js" defer></script>
+        <script src="../back-to-top.js" defer></script>
+    </head>
+
+    <body class="research ff-body">
+
+        <a class="skip-to-content" href="#main">Skip to content</a>
+        <button hidden class="back-to-top"><span class="sr-only">Back to Top</span></button>
+
+        <header class="header-not-home">
+            <div class="flex primary-header">
+                <span class="title fs-700 ff-header text-white">SCML</span>
+                <button class="mobile-nav-toggle" aria-controls="primary-navigation"><span class="sr-only" aria-expanded="false">Menu</span></button>
+                <nav>
+                    <ul id="primary-navigation" class="primary-navigation underline-indicators flex primary-navigation--not-home" data-visible="false">
+                        <li><a class="text-white fs-300 ff-header" href="../index.html">Home</a>
+                        <li><a class="text-white fs-300 ff-header" href="../publications.html">Publications</a>
+                        <li><a class="text-white fs-300 ff-header" href="../people.html">People</a>
+                        <li class="active"><a class="text-white fs-300 ff-header" href="../research.html">Research</a>
+                        <li><a class="text-white fs-300 ff-header" href="../location.html">Location</a>
+                    </ul>
+                </nav>
+            </div>
+            <div class="undertitle">
+                <span class="text-accent fs-600 ff-header">Alberto Fernandez-Nieves</span>
+            </div>
+        </header>
+
+        <main id="main" class="research-project">
+            <a class="text-dark fs-600 research-goBackLink" href="../research.html">Back to Research Page</a>
+
+            <div class="research-subprojectSelect">
+                <span class="text-dark ff-body fs-300" style="text-decoration: underline;">Projects:</span>
+                <a class="text-dark ff-body fs-300" href="#tori">Buckling Tori</a>
+                <span class="text-dark ff-body fs-300">-</span>
+                <a class="text-dark ff-body fs-300" href="#skin">Skin Formation</a>
+            </div>
+
+            <h1 class="text-dark fs-600 research-projectTitle" id="tori">Buckling tori</h1>
+            <h2 class="text-dark fs-300 research-projectContributors">Javier Rojo Gonz&aacutelez, Adrian Arenas Gullo</h2>
+
+            <p class="text-dark fs-300 research-projectBody">
+                Hydrogels are solids that consist on a crosslinked polymer network filled with water. Within these materials, responsive hydrogels are very interesting since they change their
+                 behaviour when some external parameter like temperature, pH … is changed. Pnipam hydrogels change their behaviour with temperature, changing from hydrophilic to hydrophobic
+                  when the temperature is risen above ~32C, expelling the water they have inside and thus shrinking.
+                  <br><br>
+                For a homogeneously crosslinked Pnipam hydrogel, when heated above the transition temperature in a quasistatic way, independently of its shape, it will shrink in an affine
+                 way. But, when heated fast enough (“quenched”) water from the surface of the gel will be expelled fast forming an impermeable polymer layer that prevents the water inside
+                  the gel from escaping. The volume of the gel has to remain constant but the polymer wants to separate from the water. This way, a constant volume phase transition induces
+                   phase separation into a shrunken and a swollen phase. 
+                   <br><br>
+                When dealing with shaped gel with circular cross-section, like a torus or an S, the shrunk phase would tend to occupy the region with negative curvature/negatively curved
+                 region, while the swollen the swollen the region with positive curvature [1]. The deformation induced by the phase separation results in a change of shape of gel.
+                  This way, through a thermodynamic instability, big deformations of gels can be achieved. By similarity to extreme mechanics where small forces can lead to big deformation
+                   through mechanical instabilities, this phenomenon is called extreme thermodynamics.
+                   <br><br>
+                When working with toroidal Pnipam hydrogels, quenching the tori leads to its deformation into a Pringle shape [2] (figure 1). The main goal of this project is to keep
+                 exploring experimentally the effects of extreme thermodynamics in gels with various shapes. Some of the shapes of interest are a cylinder, or an S-shaped gel where some 
+                 twist is predicted to appear.
+
+            </p>
+
+            <div class="research-projectImageBlock">
+                <img src="../assets/research/extremeThermo/Figure1.png"
+                    class="research-projectImage" 
+                >
+                <p class="text-dark fs-200 research-projectImageCaption">
+                    <span style="text-decoration: underline;">Figure 1:</span> Left: Initial Pnipam torus. Right: Pnipam torus after quenching. It can be seen that the shrunken region
+                     appears in the region of negative curvature of the torus. 
+                </p>
+            </div>
+
+            <p class="text-dark fs-200 research-projectBody">
+                [1] M. S. Dimitriyev, Y-W. Chang, P. M. Goldbart, A. Fernandez-Nieves, Swelling thermodynamics and phase transitions of polymer gels, Nano Futures 3, 042001 (2019)<br>
+                [2] Y-W. Chang, M. S. Dimitriyev, A. Souslov, S. V. Nikolov, S. M. Marquez, A. Alexeev, P. M. Goldbart, A. Fernandez-Nieves, Extreme thermodynamics with polymer gel tori:
+                 Harnessing thermodynamic instabilities to induce large-scale deformations, Physical Review E 98, 020501(R) (2018)
+            </p>
+
+            <h1 class="text-dark fs-600 research-projectTitle" id="skin">Skin Formation</h1>
+            <h2 class="text-dark fs-300 research-projectContributors">Boyang Zhou</h2>
+
+            <p class="text-dark fs-300 research-projectBody">
+                Shape actuation is often realized with polymeric materials, such as polymer gels, which are crosslinked polymer networks immersed 
+                in a solvent. The gel network equilibrates when the total free energy consisting of a polymer-solvent mixing contribution and 
+                an elasticity term of the polymer network is minimized. The polymer gel can also reach to a thermodynamically unstable phase 
+                coexistence. Thermo-responsive gels with a lower critical solution temperature, Tc, are in an equilibrium swollen state when T < 
+                T<sub>c</sub>. In contrast, if the temperature rises above T<sub>c</sub> rapidly, the gel can reach a phase coexistence and can 
+                be characterized by a free energy with two minima, corresponding to a polymer dense skin that is formed at the gel surface, 
+                preventing solvent from leaving and a solvent-rich gel interior. It is also reported that the solvent-poor skin grows inward 
+                from the boundary, and the continuous growth of the skin comes at the cost of solvent addition to the core region, Fig. 2(1-3).
+            </p>
+
+            <div class="research-projectImageBlock">
+                <img src="../assets/research/extremeThermo/Figure2.png"
+                    class="research-projectImage" 
+                >
+                <p class="text-dark fs-200 research-projectImageCaption">
+                    <span style="text-decoration: underline;">Figure 2:</span> Fully swollen gel in 𝐻<sub>2</sub>𝑂 at 20℃ (∅~1.7cm). B: 
+                    deswollen gel at 40℃ after progressive heating from 20℃. C: 𝐻<sub>2</sub>>𝑂 at 40℃ was dumped onto the gel to achieve 
+                    rapid heating. 1-3: Polymer skin growth after rapid heating. D: Fully swollen gel. E: 10s after applying heat rapidly. 
+                    F: 20s after. G: 30s after.
+                </p>
+            </div>
+
+            <p class="text-dark fs-300 research-projectBody">
+                Further, despite the transition between swollen and deswollen gels is like the gas-liquid transition, the shear rigidity of the gel 
+                also has an impact on the phase-coexistence equilibrium due to the anisotropic stress at the interface of the solvent-poor and the 
+                solvent-rich. Macroscopically, this stress between a polymer-rich skin and a solvent-rich interior may cause a deformation of the gel, 
+                such as buckling or transverse deflection. As a result, the phase coexistence equilibrium of the gel is also believed to be shape 
+                dependent. So far, details of how the shear rigidity and shape of the gel influences the volume phase behavior remain unclear. 
+                However, this information is essential to understand the thermodynamic instability of the gel under rapid heating. The neutron 
+                scattering intensity will be compared altogether with the neutron imaging data and rheology data taken at the same conditions. 
+                The goal is to study the connection between the microscopic structure obtained with SANS and the mechanical properties such as the 
+                bulk modulus and skin thickness, to understand the phase coexistence that is far from the thermodynamically stable regime. We have 
+                used pNIPAM gel with 1𝑤𝑤t.% of crosslinker that has a phase transition temperature of 𝑇 = 32℃ (Fig.A). We slowly increased the 
+                temperature from 20℃ to 40℃ and the gel diameter decreased by 50%. Further, we directly dumped H<sub>2</sub>>O at 40℃ onto 
+                the gel, which results in deswelling of only 5% and the size is unchanged over the course of hours. The restricted 
+                deswelling clearly indicates the presence of a polymer-rich skin that traps the solvent. In addition, we prepared cylindrically 
+                shaped gels with both the diameter and the height equal to 2 mm in D2O for measurements on BOA (neutron imaging), SINQ, PSI. The 
+                sample was kept in a quartz glass capillary and a heat gun was used to rapidly increase the temperature, which made the gel change 
+                to a donut-like shape with a more transparent center and a polymer-dense peripheral region. The width of the periphery was estimated 
+                to be 30𝜇m, (Fig.2D-G). In addition, we press the gels on the circular surface by 50% in height using a rheometer and recorded the 
+                normal force at different stage of gel (swollen, de-swollen and swollen with skin), the goal is to treat the gel with skin as a 
+                composite material and extract the thickness and mechanical properties of the polymer dense skin. If we press the gel for a long 
+                time (20 hours), the force stabilizes which means that the polymer network has rearranged and has reached the equilibrium state in 
+                the new geometry. This is clear evidence that beside temperature, the gel microscopic structure is also connected to the stress. 
+            </p>
+        
+        </main>
+    </body>
+</html>

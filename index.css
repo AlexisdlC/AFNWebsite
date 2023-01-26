@@ -914,3 +914,149 @@ body{
         align-self: start;
     }
 }
+
+
+/* research page */
+
+.research-main{
+    padding: 2rem;
+}
+
+.research-title{
+    margin-bottom: 2rem;
+    padding: 0.5rem;
+    border-bottom: 1px solid black;
+}
+
+.research-caroussel{
+    width: 100%;
+}
+
+.research-caroussel-element{
+    text-decoration: none;
+    border: 3px solid black;
+    aspect-ratio: 1 / 1;
+    width: 75%;
+    border-radius: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.research-caroussel-element>p{
+    text-align: center;
+    font-weight: bold;
+}
+
+.research-caroussel-element:hover{
+    cursor: pointer;
+    opacity: 90%;
+}
+
+.flex-research{
+    flex-flow: column wrap;
+    justify-content: space-around;
+    align-items: start;
+    --gap: 1rem;
+}
+
+.research-nematicConfined{
+    background-image: url('./assets/research/Torus_snippet.PNG');
+}
+
+.research-microgels{
+    background-image: url('./assets/research/Microgels_snippet.PNG');
+}
+
+.research-extremeThermo{
+    background-image: url('./assets/research/ExThermo_snippet_b.PNG');
+}
+
+.research-alginate{
+    background-image: url('./assets/research/Alginate_snippet.PNG');
+}
+
+.research-chitosan{
+    background-image: url('./assets/research/Chitosan_snippet.PNG');
+}
+
+.research-activeNematic{
+    background-image: url('./assets/research/AN_snippet_2.PNG');
+}
+
+@media (min-width: 35em){
+    .flex-research{
+        flex-flow: row wrap;
+    }
+
+    .research-caroussel-element{
+        width: 40vw;
+    }
+}
+
+@media (min-width: 50em){
+    .research-caroussel-element{
+        width: 25vw;
+    }
+}
+
+.research-project{
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.research-subprojectSelect{
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
+
+.research-subprojectSelect>a{
+    text-decoration: none;
+    margin-inline: 0.25rem;
+    opacity: 0.75;
+}
+
+.research-subprojectSelect>a:hover{
+    opacity: 1;
+}
+
+.research-projectTitle{
+    padding-block: 1rem;
+    border-bottom: 1px solid black;
+}
+
+.research-projectContributors{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-style: italic;
+}
+
+.research-projectBody{
+    margin-block: 1rem;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.research-projectImageBlock{
+    display: flex;
+    flex-direction: column;
+    margin-block: 1rem;
+    width: 100%;
+}
+
+.research-projectImage{
+    width: 1fr;
+    align-self: center;
+}
+
+.research-projectImageCaption{
+    margin-inline: 2rem;
+    margin-top: 0.75rem;
+    align-self: center;
+    text-align: justify;
+    font-style: italic;
+}
