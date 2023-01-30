@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png"> -->
+        <!-- Google fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+        <!-- Our custom CSS -->
+        <link rel="stylesheet" href="../index.css">
+        
+        <title>Soft Condensed Matter Laboratory</title>
+
+        <script src="../navigation.js" defer></script>
+        <script src="../back-to-top.js" defer></script>
+    </head>
+
+    <body class="research ff-body">
+
+        <a class="skip-to-content" href="#main">Skip to content</a>
+        <button hidden class="back-to-top"><span class="sr-only">Back to Top</span></button>
+
+        <header class="header-not-home">
+            <div class="flex primary-header">
+                <span class="title fs-700 ff-header text-white">SCML</span>
+                <button class="mobile-nav-toggle" aria-controls="primary-navigation"><span class="sr-only" aria-expanded="false">Menu</span></button>
+                <nav>
+                    <ul id="primary-navigation" class="primary-navigation underline-indicators flex primary-navigation--not-home" data-visible="false">
+                        <li><a class="text-white fs-300 ff-header" href="../index.html">Home</a>
+                        <li><a class="text-white fs-300 ff-header" href="../publications.html">Publications</a>
+                        <li><a class="text-white fs-300 ff-header" href="../people.html">People</a>
+                        <li class="active"><a class="text-white fs-300 ff-header" href="../research.html">Research</a>
+                        <li><a class="text-white fs-300 ff-header" href="../location.html">Location</a>
+                    </ul>
+                </nav>
+            </div>
+            <div class="undertitle">
+                <span class="text-accent fs-600 ff-header">Alberto Fernandez-Nieves</span>
+            </div>
+        </header>
+
+        <main id="main" class="research-project">
+            <a class="text-dark fs-600 research-goBackLink" href="../research.html">Back to Research Page</a>
+            <h1 class="text-dark fs-600 research-projectTitle">Fire Ants as Active Matter</h1>
+            <h2 class="text-dark fs-300 research-projectContributors">Caleb Anderson</h2>
+
+            <p class="text-dark fs-300 research-projectBody">
+                Active matter systems are a class of systems that share striking universal features over broad range of length-scales. The field was originally founded to understand 
+                the behavior of biological crowds, such as flocks of birds, but as theory work has become more precise, many of its predictions have been primarily verified in synthetic 
+                systems, in which particles interact with each other in well-defined ways. We seek to use fire ants to return the field to its roots and see if the some of the most 
+                famous results in synthetic systems can be applied to the ants despite their extremely complicated, in fact social, interactions. 
+                <br><br>
+                Ants can attract each other and form clusters in a manner called Motility-Induced Phase Separation (MIPS) because their social interactions cause them to slow down 
+                when they approach each other, like particles in several synthetic systems. 
+            </p>
+
+            <div class="research-projectImageBlock">
+                <video autoplay loop class="research-video">
+                    <source src="../assets/research/fireAnts/MIPS.mp4">
+                </video>
+            </div>
+
+            <p class="text-dark fs-300 research-projectBody">
+                However, at very high densities, ants undergo “activity cycles”, in which long periods of relative low activity are punctuated by short bursts during which all of the 
+                ants attempt to move, regardless of the density. During these bursts, the ants don’t slow down when they approach each other, so they don’t undergo MIPS. Instead they, 
+                leading to another behavior famous in active matter systems – collective motion. In systems of tens of thousands of ants, this combination of varying contagious activity 
+                levels and the resulting collective motion leads to beautiful “activity waves”, that propagate towards the free surface! 
+            </p>
+
+            <div class="research-projectImageBlock">
+                <video autoplay loop class="research-video">
+                    <source src="../assets/research/fireAnts/Waves.mp4">
+                </video>
+            </div>
+        </main>
+    </body>
+</html>

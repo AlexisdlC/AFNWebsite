@@ -987,6 +987,10 @@ body{
     background-image: url('./assets/research/AN_snippet_2.PNG');
 }
 
+.research-fireAnts{
+    background-image: url('./assets/research/FireAnts_snippet.PNG');
+}
+
 @media (min-width: 35em){
     .flex-research{
         flex-flow: row wrap;
@@ -1059,4 +1063,10 @@ body{
     align-self: center;
     text-align: justify;
     font-style: italic;
+}
+
+.research-video{
+    width: 100% !important;
+    height: auto !important;
+    padding-inline: 20%
 }
