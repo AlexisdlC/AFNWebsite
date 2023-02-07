@@ -991,6 +991,10 @@ body{
     background-image: url('./assets/research/FireAnts_snippet.PNG');
 }
 
+.research-granular{
+    background-image: url('./assets/research/Granular_snippet.PNG');
+}
+
 @media (min-width: 35em){
     .flex-research{
         flex-flow: row wrap;

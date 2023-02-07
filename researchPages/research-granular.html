@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png"> -->
+        <!-- Google fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+        <!-- Our custom CSS -->
+        <link rel="stylesheet" href="../index.css">
+        
+        <title>Soft Condensed Matter Laboratory</title>
+
+        <script src="../navigation.js" defer></script>
+        <script src="../back-to-top.js" defer></script>
+    </head>
+
+    <body class="research ff-body">
+
+        <a class="skip-to-content" href="#main">Skip to content</a>
+        <button hidden class="back-to-top"><span class="sr-only">Back to Top</span></button>
+
+        <header class="header-not-home">
+            <div class="flex primary-header">
+                <span class="title fs-700 ff-header text-white">SCML</span>
+                <button class="mobile-nav-toggle" aria-controls="primary-navigation"><span class="sr-only" aria-expanded="false">Menu</span></button>
+                <nav>
+                    <ul id="primary-navigation" class="primary-navigation underline-indicators flex primary-navigation--not-home" data-visible="false">
+                        <li><a class="text-white fs-300 ff-header" href="../index.html">Home</a>
+                        <li><a class="text-white fs-300 ff-header" href="../publications.html">Publications</a>
+                        <li><a class="text-white fs-300 ff-header" href="../people.html">People</a>
+                        <li class="active"><a class="text-white fs-300 ff-header" href="../research.html">Research</a>
+                        <li><a class="text-white fs-300 ff-header" href="../location.html">Location</a>
+                    </ul>
+                </nav>
+            </div>
+            <div class="undertitle">
+                <span class="text-accent fs-600 ff-header">Alberto Fernandez-Nieves</span>
+            </div>
+        </header>
+
+        <main id="main" class="research-project">
+            <a class="text-dark fs-600 research-goBackLink" href="../research.html">Back to Research Page</a>
+            <h1 class="text-dark fs-600 research-projectTitle">Janssen Experiment</h1>
+            <h2 class="text-dark fs-300 research-projectContributors">Ramon Planet, Iker Zamorano, Caleb Anderson</h2>
+
+            <p class="text-dark fs-300 research-projectBody">
+                Granular matter refers to a physical system composed of discrete solid particles that interact with each other through physical forces, such as collisions and friction. 
+                The study of granular matter encompasses a wide range of systems, from everyday materials like sand and soil, to industrial products like powders and pills. Thermal 
+                effects in granular materials are negligible compared to gravitational and frictional effects, hence, granular packings would be expected to remain frozen in local 
+                states. Due to the complex interparticle interactions and the resulting collective behavior, granular matter behaves different from fluids, solids, or gases.
+                <br><br> 
+                One example of this unusual mechanical behavior is the well-known “Janssen’s effect”. When filling a cylindrical column with grains, the weight measured at the bottom 
+                of the column does not scale linearly with added mass, but asymptotically saturates towards a constant value. The weight is partially supported by the lateral walls 
+                through frictional interactions with the grains. However, we recently observed that the weight measured at the bottom can become larger than the total added mass when 
+                the columns are sufficiently small compared to the diameter of the grains [1].
+            </p>
+
+            <div class="research-projectImageBlock">
+                <img src="../assets/research/granular/Figure1.png"
+                    class="research-projectImage" 
+                >
+                <p class="text-dark fs-200 research-projectImageCaption">
+                    <span style="text-decoration: underline;">Figure 1:</span> Experimental results for the dependence of the apparent mass, ma, on the added mass, m, for a cylinder with 
+                    diameter D ≃ 172.00 mm ≃ 29σ, panel (a), and D ≃ 49.10 mm ≃ 8.2σ, panel (b), with σ the grain diameter. (c) Dependence of the ratio of the apparent to added mass, 
+                    ma=m, on the filling height relative to the grain diameter, h=σ, for different D. Full lines are fit to the theoretical model. (d) Characteristic length scales 
+                    corresponding to (h<sub>a</sub>) the height where the deviation from the hydrodynamic expectation starts, (h*) the height corresponding to the maximum in ma=m, and (hd) the 
+                    height to the right of the maximum where ma/m = 1.
+                </p>
+            </div>
+
+            <p class="text-dark fs-300 research-projectBody">
+                We also used grains with different geometries (spherical, oblate, and prolate particles), and find that all three geometries display the overshoot in weight. By varying 
+                the size of the cylindrical container, we observe a decaying in magnitude of the overshoot proportional to D-1 for the case of the spheres. However, non-spherical 
+                geometries show a faster decay of the overshoot peak with the size of the container column. 
+            </p>
+
+            <div class="research-projectImageBlock">
+                <img src="../assets/research/granular/Figure2.png"
+                    class="research-projectImage" 
+                >
+                <p class="text-dark fs-200 research-projectImageCaption">
+                    <span style="text-decoration: underline;">Figure 2:</span> Experimental and numerical results for the dependence of the maximum of the reported anomaly on the 
+                    cylinder diameter relative to the grain size. Blue dots correspond to experiments performed with oblate particles (lentils), red dots correspond to experiments 
+                    performed with prolate particles (beans), and finally, the dashed line correspond to the results obtained with spherical particles. 
+                </p>
+            </div>
+
+            <p class="text-dark fs-300 research-projectBody">
+                We argue that packing effects are behind the quantitative differences between spherical to non-spherical grains. Ellipsoids pack in a more efficient way than spheres.
+                <br><br>
+                Finally, we can connect these results with recent experiments using fire ants as an active version of granular matter. Despite the inherent activity of the ants and their 
+                natural tendency to rearrange, the ants also develop force-chain structures that help support the weight of the column (see <a href="research-fireAnts.html">Fire Ants</a> 
+                research section for more details).
+            </p>
+
+            <p class="text-dark fs-200 research-projectBody">
+                [1] S. Mahajan, et al., Phys. Rev. Lett., 124, 128002 (2020).
+            </p>
+        </main>
+    </body>
+</html>
