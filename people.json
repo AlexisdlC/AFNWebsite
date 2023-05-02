@@ -94,5 +94,13 @@
         "Office": "-",
         "email": "izamorve7@alumnes.ub.edu",
         "picture": "ikerZamoranoVega.jpeg"
+    },
+
+    {
+        "Name": "Pierre Pajuelo",
+        "Position": "Master Student",
+        "Office": "V316",
+        "email": "pierre.pajuelo@ens-lyon.fr",
+        "picture": "pierrePajuelo.jpg"
     }
 ]
